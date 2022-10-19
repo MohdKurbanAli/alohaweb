@@ -1,0 +1,27 @@
+
+---Downloaded files---
+The import files for: themex - cleaner were successfully downloaded!
+Initial max execution time = 120
+Files info:
+Site URL = https://test.alohawebsolutions.com
+Data file = /home/u585144271/domains/alohawebsolutions.com/public_html/test/wp-content/themes/themex//includes/demo/themex.xml
+Widget file = /home/u585144271/domains/alohawebsolutions.com/public_html/test/wp-content/themes/themex//includes/demo/themex-widgets.wie
+Customizer file = /home/u585144271/domains/alohawebsolutions.com/public_html/test/wp-content/themes/themex//includes/demo/themex-export.dat
+Redux files:
+themex_opt -> /home/u585144271/domains/alohawebsolutions.com/public_html/test/wp-content/themes/themex//includes/demo/redux/themex_opt.json 
+
+
+---ocdi/before_content_import---
+
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+

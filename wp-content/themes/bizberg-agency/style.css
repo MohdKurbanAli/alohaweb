@@ -1,0 +1,124 @@
+/*
+Theme Name: Bizberg Agency
+Template: bizberg
+Text Domain: bizberg-agency
+Author: Bizberg Themes
+Author URI: https://bizbergthemes.com/
+Theme URI: https://bizbergthemes.com/downloads/bizberg-agency/
+Description: Bizberg Agency is a perfect theme for your business, corporate, restaurant, ingo, ngo, environment, nature, wedding, blog, portfolio, medical, charity, construction websites. You can import full website demos easily. Within few seconds, a fully responsive business website will be ready with a demo content. You can easily edit the content using live customizer & Elementor. It is fast & light-weight and works with almost all popular WordPress plugins. It is compatible with Elementor and all the sections are made from Elementor.
+Tags: custom-logo,custom-menu,featured-images,threaded-comments,translation-ready,left-sidebar,right-sidebar,grid-layout,theme-options,blog,news,portfolio
+Version: 1.1
+Requires at least: 4.9
+Tested up to: 5.8
+Requires PHP: 5.6
+License: GNU General Public License v3 or later
+License URI: http://www.gnu.org/licenses/gpl-3.0.html
+*/
+
+.navbar-default .navbar-nav>li>a{
+	letter-spacing: 0;
+}
+
+.footer_social_links{
+    display: block !important;
+}
+
+@media (pointer: fine) {
+	.blog-nosidebar-1#blog.blog-lists .no-sidebars{
+		padding: 5px;
+		margin-bottom: 0px;
+	}
+}
+/* content box */
+
+.featured_col{
+    margin-bottom: 30px;
+}
+
+.content-box-main{padding: 80px 0 50px; background: #f7f8f9;margin-bottom: 40px;}
+
+.content-box-item{
+	position: relative;
+    width: 100%;
+    height: 320px;
+    transform-style: preserve-3d;
+    perspective: 1000px;
+    border-radius: 0px;
+    margin: 0 auto; 
+} 
+
+.content-box-inner{
+	position: absolute;
+	top: 0;
+	left: 0;
+	width: 100%;
+	height: 100%;
+	transform-style: preserve-3d;
+	transition: 1s cubic-bezier(0.15, 0.15, 0.3, 1.3);
+}
+
+.content-box-item:hover .content-box-inner{
+	transform: rotateY(180deg); 
+}
+
+.content-box-item:hover .content-box-title{opacity: 0; transition: all 0.5s;}
+
+.content-box-image{
+	position: absolute;
+	top: 0;
+	left: 0;
+	width: 100%;
+	height: 100%; 
+	background-position: center;
+    background-size: cover;
+}
+
+.content-box-image img {
+	position: absolute;
+	top: 0;
+	left: 0;
+	width: 100%;
+	height: 100%;
+	object-fit: cover; 
+}
+
+.content-box-title{
+	position: absolute;
+	width: 80%;
+	top: 50%;
+	transform: translateY(-50%);
+	left: 0;
+	right: 0;
+	margin: 0 auto;
+	text-align: center;
+	padding: 20px 30px;
+	background: #fff;
+	line-height: 1.5;
+}
+
+.content-service{
+	position: absolute;
+	top: 0;
+	left: 0;
+	width: 100%;
+	height: 100%;
+	justify-content: center;
+	transform-style: preserve-3d;
+	padding: 0;
+	transform: rotateY(180deg);
+	border-radius: 0px;
+	display: flex;
+    flex-direction: column;
+    text-align: center;
+}
+
+.content-service-inner{
+	transform-style: preserve-3d;
+	padding: 20px;
+	background: #e91e63;
+	transform: translateZ(100px); 
+}
+
+.content-service-inner h4, .content-service-inner p{color: #fff;font-size: 14px;}
+
+.content-service-inner p{margin-top: 15px;}

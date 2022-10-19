@@ -1,0 +1,115 @@
+.appzend-repeater-field-control {
+    background: #FFF;
+    margin-bottom: 12px;
+    display: block;
+}
+
+.appzend-repeater-footer {
+    margin-top: 15px;
+    text-align: right;
+    display: grid;
+}
+.appzend-repeater-field-remove{
+    color:red;
+}
+
+.appzend-repeater-field-control:first-child .appzend-repeater-footer {
+    display: none;
+}
+
+.appzend-repeater-field-title {
+    padding: 13px 15px;
+    line-height: 1;
+    overflow: hidden;
+    white-space: nowrap;
+    text-overflow: ellipsis;
+    margin: 0;
+    font-size: 1em;
+    border: 1px solid #e5e5e5;
+    cursor: move;
+    position: relative;
+    border-bottom: 0;
+}
+
+.appzend-repeater-field-title:after {
+    content: "\f142";
+    font: 400 20px/1 dashicons;
+    position: absolute;
+    right: 0;
+    top: 0;
+    padding: 1px 2px 1px 0;
+    margin-top: 10px;
+    margin-right: 10px;
+    border-radius: 50%;
+    cursor: pointer;
+}
+
+.appzend-repeater-field-control.expanded .appzend-repeater-field-title:after {
+    content: "\f140";
+}
+
+.appzend-repeater-fields {
+    padding: 0 10px 10px;
+    border-top: none;
+    line-height: 16px;
+    border: 1px solid #e5e5e5;
+    -webkit-box-shadow: 0 1px 1px rgba(0, 0, 0, .04);
+    box-shadow: 0 1px 1px rgba(0, 0, 0, .04);
+    display: none;
+}
+
+.appzend-repeater-fields .customize-control-repeater-title {
+    display: block;
+    font-size: 14px;
+    line-height: 24px;
+    font-weight: 600;
+    margin-bottom: 4px;
+    margin-top: 10px;
+}
+
+.appzend-repeater-field-control.expanded .appzend-repeater-fields {
+    display: block;
+}
+
+.appzend-add-control-field {
+    float: right;
+}
+
+.appzend-add-control-field:before {
+    content: "\f132";
+    display: inline-block;
+    position: relative;
+    left: -2px;
+    top: -1px;
+    font: 400 18px/1 dashicons;
+    vertical-align: middle;
+}
+
+.appzend-fields textarea {
+    width: 100%;
+    min-height: 100px;
+}
+
+.appzend-fields select {
+    width: 100%;
+}
+
+.appzend-fields .attachment-media-view {
+    background: none;
+}
+
+.appzend-type-checkbox {
+    margin-top: 10px;
+}
+
+.appzend-type-checkbox label {
+    line-height: 20px;
+    display: block;
+    margin-left: 24px;
+    padding-top: 6px;
+}
+
+.appzend-type-checkbox input[type=checkbox] {
+    margin-right: 8px;
+    margin-left: -24px;
+}

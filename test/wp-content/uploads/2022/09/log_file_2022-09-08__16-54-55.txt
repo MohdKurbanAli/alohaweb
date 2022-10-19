@@ -1,0 +1,63 @@
+
+---Downloaded files---
+The import files for: Themex - Water were successfully downloaded!
+Initial max execution time = 120
+Files info:
+Site URL = https://test.alohawebsolutions.com
+Data file = /home/u585144271/domains/alohawebsolutions.com/public_html/test/wp-content/themes/themex//includes/demo/themex.xml
+Widget file = /home/u585144271/domains/alohawebsolutions.com/public_html/test/wp-content/themes/themex//includes/demo/themex-widgets.wie
+Customizer file = /home/u585144271/domains/alohawebsolutions.com/public_html/test/wp-content/themes/themex//includes/demo/themex-export.dat
+Redux files:
+themex_opt -> /home/u585144271/domains/alohawebsolutions.com/public_html/test/wp-content/themes/themex//includes/demo/redux/themex_opt.json 
+
+
+---ocdi/before_content_import---
+
+
+---Importing widgets---
+Blog Left Sidebar : 
+
+Search - No Title - Imported
+Archives - No Title - Imported
+Categories - Category - Imported
+em_recent_post_widget - Recent Posts - Site does not support widget
+Meta - No Title - Imported
+Tag Cloud - Tags - Imported
+Calendar - Calendar - Imported
+
+Blog Right Sidebar : 
+
+Search - No Title - Imported
+Archives - No Title - Imported
+Categories - Categories - Imported
+Meta - No Title - Imported
+em_recent_post_widget - Recent Posts - Site does not support widget
+Tag Cloud - Tags - Imported
+Calendar - Calendar - Imported
+
+Footer 1 : 
+
+themex_description_widget - No Title - Site does not support widget
+
+Footer 2 : 
+
+Navigation Menu - Our Service - Imported
+
+Footer 3 : 
+
+em_recent_post_widget - Recent Post - Site does not support widget
+
+Footer 4 : 
+
+about_us-widget - Contact Us - Site does not support widget
+
+
+
+---Importing Redux settings---
+The Redux plugin is not activated, so the Redux import was skipped!
+
+---Importing customizer settings---
+Customizer settings import finished!
+
+---ocdi/after_import---
+

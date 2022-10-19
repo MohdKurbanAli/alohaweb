@@ -1,0 +1,97 @@
+/*FontAwesome Icon Styles*/
+.appzend-customizer-icon-box .appzend-icon-box {
+    display: none;
+}
+
+.appzend-customizer-icon-box .appzend-type-icon {
+    overflow: hidden;
+}
+
+.appzend-customizer-icon-box .appzend-selected-icon {
+    background: #F6F6F6;
+    height: 45px;
+    line-height: 45px;
+    text-align: center;
+    border: 1px solid #EEE;
+    position: relative;
+    margin-right: 44px;
+    cursor: pointer;
+    font-size: 22px;
+}
+
+.appzend-customizer-icon-box .appzend-selected-icon span i {
+    line-height: 45px;
+}
+
+.appzend-customizer-icon-box .appzend-selected-icon span {
+    position: absolute;
+    background: #F6F6F6;
+    right: -45px;
+    top: -1px;
+    height: 45px;
+    width: 45px;
+    border: 1px solid #EEE;
+    font-size: 16px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.appzend-customizer-icon-box .appzend-icon-search {
+    padding: 10px;
+    background: #f7f7f7;
+    border: 1px solid #EEE;
+    border-top: 0;
+}
+
+.appzend-customizer-icon-box .appzend-icon-search select {
+    margin-bottom: 10px;
+}
+
+.appzend-customizer-icon-box .appzend-icon-list {
+    height: 215px;
+    overflow-y: scroll;
+    font-size: 18px;
+    border: 1px solid #EEE;
+    background: #FFF;
+    border-right: 0;
+    border-top: 0;
+    padding-bottom: 4%;
+    display: none;
+    cursor: pointer;
+    box-sizing: border-box;
+    -moz-box-sizing: border-box;
+    -webkit-box-sizing: border-box;
+}
+
+.appzend-customizer-icon-box .appzend-icon-list:first-of-type {
+    display: block;
+}
+
+.appzend-customizer-icon-box .appzend-icon-list li {
+    float: left;
+    height: 40px;
+    width: 40px;
+    text-align: center;
+    line-height: 40px;
+    border: 1px solid #EEE;
+    border-radius: 3px;
+    font-size: 18px;
+    margin: 4px;
+    -webkit-transition: all 0.3s ease;
+    transition: all 0.3s ease;
+}
+
+.appzend-customizer-icon-box .appzend-icon-list li:hover {
+    background: #333;
+    border: 1px solid #333;
+    color: #FFF;
+    -webkit-transform: scale(1.15);
+    transform: scale(1.15);
+}
+
+.appzend-customizer-icon-box .appzend-icon-list li.icon-active {
+    background: #0073aa;
+    border: 1px solid #0073aa;
+    color: #FFF;
+}

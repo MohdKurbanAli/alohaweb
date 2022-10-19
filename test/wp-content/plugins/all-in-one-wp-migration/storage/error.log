@@ -1,0 +1,3 @@
+Sep 08 2022 13:18:21
+{"Number":8,"Message":"mysqli_query(): send of 125 bytes failed with errno=104 Connection reset by peer","File":"\/home\/u585144271\/domains\/alohawebsolutions.com\/public_html\/test\/wp-includes\/wp-db.php","Line":2169}
+

@@ -1,0 +1,48 @@
+
+---Downloaded files---
+The import files for: Agency 3 were successfully downloaded!
+Initial max execution time = 30
+Files info:
+Site URL = http://localhost/marketingagency
+Data file = C:\xampp2\htdocs\marketingagency\wp-content\plugins\cyclone-demo-importer//themes/bizberg-lite/inc/content.xml
+Widget file = not defined!
+Customizer file = C:\xampp2\htdocs\marketingagency\wp-content\plugins\cyclone-demo-importer//themes/bizberg-lite/inc/options.dat
+Redux files:
+not defined!
+
+---ocdi/before_content_import---
+
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+
+
+---Importing customizer settings---
+Customizer settings import finished!
+
+---ocdi/after_import---
+

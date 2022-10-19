@@ -1,0 +1,119 @@
+.tab_content .radio_item{
+  display: none !important;
+}
+
+.tab_content .label_item {
+  opacity: 0.1;
+}
+
+.tab_content .radio_item:checked + label {
+  opacity: 1;
+}
+
+.tab_content label {
+  cursor: pointer;   
+}
+
+.tab_content .meta_attr_container {
+    display: none;
+}
+
+.tab_content .meta_attr_container.show {
+    display: block;
+}
+
+.tab_content .switch {
+    position: relative;
+    display: inline-block;
+    width: 90px;
+    height: 34px;
+  }
+  
+.tab_content .switch input {display:none;}
+  
+.tab_content .slider {
+  position: absolute;
+  cursor: pointer;
+  top: 0;
+  left: 0;
+  right: 0;
+  bottom: 0;
+  background-color: #ca2222;
+  -webkit-transition: .4s;
+  transition: .4s;
+}
+
+.tab_content .slider:before {
+  position: absolute;
+  content: "";
+  height: 26px;
+  width: 26px;
+  left: 4px;
+  bottom: 4px;
+  background-color: white;
+  -webkit-transition: .4s;
+  transition: .4s;
+}
+
+.tab_content input:checked + .slider {
+  background-color: #2ab934;
+}
+
+.tab_content input:focus + .slider {
+  box-shadow: 0 0 1px #2196F3;
+}
+
+.tab_content input:checked + .slider:before {
+  -webkit-transform: translateX(55px);
+  -ms-transform: translateX(55px);
+  transform: translateX(55px);
+}
+  
+/*------ ADDED CSS ---------*/
+.tab_content .on{
+  display: none;
+}
+  
+.tab_content .on, 
+.tab_content .off {
+  color: white;
+  position: absolute;
+  transform: translate(-50%,-50%);
+  top: 50%;
+  left: 50%;
+  font-size: 10px;
+  font-family: Verdana, sans-serif;
+}
+  
+input:checked+ .slider .on {display: block;}
+
+input:checked + .slider .off {display: none;}
+  
+  /*--------- END --------*/
+  
+  /* Rounded sliders */
+.tab_content .slider.round {
+  border-radius: 34px;
+}
+  
+.tab_content .slider.round:before {
+  border-radius: 50%;
+}
+
+.enable_breadcrumb, .overwrite_default {
+  width: 49%;
+  float: left;
+}
+
+
+/** meta box title margin padding */
+.edit-post-meta-boxes-area .postbox > .inside .title{
+  width: 200px;
+  text-align: right;
+  display: inline-block;
+  margin-right: 10px;
+}
+
+.tab_content > div {
+  margin-top: 10px;
+}

@@ -1,0 +1,96 @@
+body{
+	direction: rtl;
+  	unicode-bidi: embed;
+}
+/* These fields should be LTR in a RTL language direction */
+.email-address1,
+.email,
+.tel-number1,
+.tel,
+.zip1,
+.url-address1,
+.url{
+     direction: ltr;
+}
+
+/* Alignments
+--------------------------------------------- */
+.alignleft {
+	float: right;
+	margin-left: 1.5em;
+	margin-bottom: 1.5em;
+}
+
+.alignright {
+	float: left;
+	margin-right: 1.5em;
+	margin-bottom: 1.5em;
+}
+
+.aligncenter {
+	clear: both;
+	display: block;
+	margin-right: auto;
+	margin-left: auto;
+	margin-bottom: 1.5em;
+}
+.widget_nav_menu li::before,
+.widget_archive ul li a, .widget_categories ul li a, .widget_product_categories ul li a{
+	float: right;
+	padding-right: 20px;
+}
+
+.widget_archive a::before, .widget_categories a::before, .widget_product_categories a::before, .widget_recent_entries li::before, .widget_meta a::before, .widget_recent_comments li::before, .widget_rss li::before, .widget_pages li::before, .widget_nav_menu li::before{
+	left: unset;
+	right: 0;
+}
+.widget_archive a::before, .widget_recent_entries li::before {
+    right: -20px !important;
+}
+.box-header-nav .main-menu .page_item.page_item_has_children>a::after,
+.box-header-nav .main-menu>.menu-item.menu-item-has-children>a::after{
+	content: "";
+}
+.box-header-nav .main-menu .page_item.page_item_has_children>a::before,
+.box-header-nav .main-menu>.menu-item.menu-item-has-children>a::before{
+    display: inline-block;
+    vertical-align: top;
+    content: '\f107';
+    margin-left: 4px;
+    font-family: 'Font Awesome 5 Free';
+}
+.box-header-nav .main-menu .children, .box-header-nav .main-menu .sub-menu{
+	left:unset;
+	right: 0;
+	text-align: right;
+}
+
+.widget_archive a::before, .widget_categories a::before, .widget_product_categories a::before, .widget_recent_entries li::before, .widget_meta a::before, .widget_recent_comments li::before, .widget_rss li::before, .widget_pages li::before, .widget_nav_menu li::before {
+    content: '';
+}
+
+.widget_archive a::after, .widget_categories a::after, .widget_product_categories a::after, .widget_recent_entries li::after, .widget_meta a::after, .widget_recent_comments li::after, .widget_rss li::after, .widget_pages li::after, .widget_nav_menu li::after {
+    color: #fff;
+    content: "\f187";
+    font-family: 'Font Awesome 5 Free';
+    font-weight: 700;
+    font-size: 14px;
+    right: 0;
+    position: absolute;
+    top: 0px;
+    -webkit-transition: color 0.3s ease;
+    -moz-transition: color 0.3s ease;
+    -ms-transition: color 0.3s ease;
+    -o-transition: color 0.3s ease;
+    transition: color 0.3s ease;
+}
+.widget_meta a::after, .widget_nav_menu li::after {
+    content: "\f138";
+}
+.widget_meta a::before, .widget_nav_menu li::before {
+    content: "";
+}
+.widget_archive a, .widget_categories a, .widget_product_categories a, .widget_recent_entries li, .widget_meta a, .widget_recent_comments li, .widget_rss li, .widget_pages li, .widget_nav_menu li{
+	padding-left: 0;
+	padding-right: 0;
+}

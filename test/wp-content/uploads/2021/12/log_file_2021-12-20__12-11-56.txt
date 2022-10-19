@@ -1,0 +1,2816 @@
+
+---Downloaded files---
+The import files for: Home – College were successfully downloaded!
+Initial max execution time = 300
+Files info:
+Site URL = http://localhost/marketingagency
+Data file = C:\xampp2\htdocs\marketingagency/wp-content/themes/edumy/inc/vendors/one-click-demo-import/default/dummy-data.xml
+Widget file = C:\xampp2\htdocs\marketingagency/wp-content/themes/edumy/inc/vendors/one-click-demo-import/default/widgets.wie
+Customizer file = not defined!
+Redux files:
+edumy_theme_options -> C:\xampp2\htdocs\marketingagency/wp-content/themes/edumy/inc/vendors/one-click-demo-import/default/redux-options7.json 
+
+
+------
+New AJAX call!
+[WARNING] Failed to import course_category 2D
+[WARNING] Failed to import simple_event_tags 3d max
+[WARNING] Failed to import product_tag Adobe Illustrator
+[WARNING] Failed to import course_tag Adobe Illustrator
+[WARNING] Failed to import course_category Ads &amp; Analytics
+[WARNING] Failed to import course_tag After Effects
+[WARNING] Failed to import course_category Animation
+[WARNING] Failed to import simple_event_tags animation
+[WARNING] Failed to import course_category Asset Store
+[WARNING] Failed to import course_category Audio
+[WARNING] Failed to import product_tag Beginner
+[WARNING] Failed to import simple_event_tags Beginner
+[WARNING] Failed to import course_tag Beginner
+[WARNING] Failed to import course_category Best Practices
+[WARNING] Failed to import pa_color Blue
+[WARNING] Failed to import product_cat Business
+[WARNING] Failed to import product_tag Business
+[WARNING] Failed to import product_cat Clothing
+[WARNING] Failed to import course_category Cloud Build
+[WARNING] Failed to import course_tag CorelDRAW
+[WARNING] Failed to import product_cat Decor
+[WARNING] Failed to import course_category Developer Advice
+[WARNING] Failed to import product_cat Engineering
+[WARNING] Failed to import product_visibility exclude-from-catalog
+[WARNING] Failed to import product_visibility exclude-from-search
+[WARNING] Failed to import simple_event_category Expired
+[WARNING] Failed to import product_type external
+[WARNING] Failed to import product_visibility featured
+[WARNING] Failed to import course_category Game Performance Reporting
+[WARNING] Failed to import product_tag Graphic Design
+[WARNING] Failed to import course_tag Graphic Design
+[WARNING] Failed to import course_category Graphics
+[WARNING] Failed to import pa_color Gray
+[WARNING] Failed to import pa_color Green
+[WARNING] Failed to import product_type grouped
+[WARNING] Failed to import simple_event_category Happening
+[WARNING] Failed to import product_cat Hoodies
+[WARNING] Failed to import course_tag InDesign
+[WARNING] Failed to import pa_size Large
+[WARNING] Failed to import pa_size Medium
+[WARNING] Failed to import product_cat Music
+[WARNING] Failed to import product_visibility outofstock
+[WARNING] Failed to import simple_event_tags Pattern
+[WARNING] Failed to import product_tag Photoshop
+[WARNING] Failed to import simple_event_tags Photoshop
+[WARNING] Failed to import course_tag Photoshop
+[WARNING] Failed to import product_visibility rated-1
+[WARNING] Failed to import product_visibility rated-2
+[WARNING] Failed to import product_visibility rated-3
+[WARNING] Failed to import product_visibility rated-4
+[WARNING] Failed to import product_visibility rated-5
+[WARNING] Failed to import pa_color Red
+[WARNING] Failed to import product_type simple
+[WARNING] Failed to import product_tag Sketch
+[WARNING] Failed to import simple_event_tags Sketch
+[WARNING] Failed to import course_tag Sketch
+[WARNING] Failed to import pa_size Small
+[WARNING] Failed to import product_cat Teaching and Education
+[WARNING] Failed to import product_cat Tshirts
+[WARNING] Failed to import product_cat Uncategorized
+[WARNING] Failed to import simple_event_category Upcoming
+[WARNING] Failed to import simple_event_tags UX/UI
+[WARNING] Failed to import course_tag UX/UI
+[WARNING] Failed to import product_type variable
+[WARNING] Failed to import simple_event_tags Vector
+[WARNING] Failed to import pa_color Yellow
+[WARNING] Failed to import product_cat Accessories
+[ERROR] Failed to import "woocommerce-placeholder" (Media)
+[WARNING] Failed to import "Header Default": Invalid post type apus_header
+[ERROR] Failed to import "breadcrumb-bkg" (Media)
+
+
+------
+New AJAX call!
+[WARNING] Failed to import course_category 2D
+[WARNING] Failed to import simple_event_tags 3d max
+[WARNING] Failed to import product_tag Adobe Illustrator
+[WARNING] Failed to import course_tag Adobe Illustrator
+[WARNING] Failed to import course_category Ads &amp; Analytics
+[WARNING] Failed to import course_tag After Effects
+[WARNING] Failed to import course_category Animation
+[WARNING] Failed to import simple_event_tags animation
+[WARNING] Failed to import course_category Asset Store
+[WARNING] Failed to import course_category Audio
+[WARNING] Failed to import product_tag Beginner
+[WARNING] Failed to import simple_event_tags Beginner
+[WARNING] Failed to import course_tag Beginner
+[WARNING] Failed to import course_category Best Practices
+[WARNING] Failed to import pa_color Blue
+[WARNING] Failed to import product_cat Business
+[WARNING] Failed to import product_tag Business
+[WARNING] Failed to import product_cat Clothing
+[WARNING] Failed to import course_category Cloud Build
+[WARNING] Failed to import course_tag CorelDRAW
+[WARNING] Failed to import product_cat Decor
+[WARNING] Failed to import course_category Developer Advice
+[WARNING] Failed to import product_cat Engineering
+[WARNING] Failed to import product_visibility exclude-from-catalog
+[WARNING] Failed to import product_visibility exclude-from-search
+[WARNING] Failed to import simple_event_category Expired
+[WARNING] Failed to import product_type external
+[WARNING] Failed to import product_visibility featured
+[WARNING] Failed to import course_category Game Performance Reporting
+[WARNING] Failed to import product_tag Graphic Design
+[WARNING] Failed to import course_tag Graphic Design
+[WARNING] Failed to import course_category Graphics
+[WARNING] Failed to import pa_color Gray
+[WARNING] Failed to import pa_color Green
+[WARNING] Failed to import product_type grouped
+[WARNING] Failed to import simple_event_category Happening
+[WARNING] Failed to import product_cat Hoodies
+[WARNING] Failed to import course_tag InDesign
+[WARNING] Failed to import pa_size Large
+[WARNING] Failed to import pa_size Medium
+[WARNING] Failed to import product_cat Music
+[WARNING] Failed to import product_visibility outofstock
+[WARNING] Failed to import simple_event_tags Pattern
+[WARNING] Failed to import product_tag Photoshop
+[WARNING] Failed to import simple_event_tags Photoshop
+[WARNING] Failed to import course_tag Photoshop
+[WARNING] Failed to import product_visibility rated-1
+[WARNING] Failed to import product_visibility rated-2
+[WARNING] Failed to import product_visibility rated-3
+[WARNING] Failed to import product_visibility rated-4
+[WARNING] Failed to import product_visibility rated-5
+[WARNING] Failed to import pa_color Red
+[WARNING] Failed to import product_type simple
+[WARNING] Failed to import product_tag Sketch
+[WARNING] Failed to import simple_event_tags Sketch
+[WARNING] Failed to import course_tag Sketch
+[WARNING] Failed to import pa_size Small
+[WARNING] Failed to import product_cat Teaching and Education
+[WARNING] Failed to import product_cat Tshirts
+[WARNING] Failed to import product_cat Uncategorized
+[WARNING] Failed to import simple_event_category Upcoming
+[WARNING] Failed to import simple_event_tags UX/UI
+[WARNING] Failed to import course_tag UX/UI
+[WARNING] Failed to import product_type variable
+[WARNING] Failed to import simple_event_tags Vector
+[WARNING] Failed to import pa_color Yellow
+[WARNING] Failed to import product_cat Accessories
+[ERROR] Failed to import "woocommerce-placeholder" (Media)
+[WARNING] Failed to import "Header Default": Invalid post type apus_header
+[ERROR] Failed to import "breadcrumb-bkg" (Media)
+
+
+------
+New AJAX call!
+[WARNING] Failed to import course_category 2D
+[WARNING] Failed to import simple_event_tags 3d max
+[WARNING] Failed to import product_tag Adobe Illustrator
+[WARNING] Failed to import course_tag Adobe Illustrator
+[WARNING] Failed to import course_category Ads &amp; Analytics
+[WARNING] Failed to import course_tag After Effects
+[WARNING] Failed to import course_category Animation
+[WARNING] Failed to import simple_event_tags animation
+[WARNING] Failed to import course_category Asset Store
+[WARNING] Failed to import course_category Audio
+[WARNING] Failed to import product_tag Beginner
+[WARNING] Failed to import simple_event_tags Beginner
+[WARNING] Failed to import course_tag Beginner
+[WARNING] Failed to import course_category Best Practices
+[WARNING] Failed to import pa_color Blue
+[WARNING] Failed to import product_cat Business
+[WARNING] Failed to import product_tag Business
+[WARNING] Failed to import product_cat Clothing
+[WARNING] Failed to import course_category Cloud Build
+[WARNING] Failed to import course_tag CorelDRAW
+[WARNING] Failed to import product_cat Decor
+[WARNING] Failed to import course_category Developer Advice
+[WARNING] Failed to import product_cat Engineering
+[WARNING] Failed to import product_visibility exclude-from-catalog
+[WARNING] Failed to import product_visibility exclude-from-search
+[WARNING] Failed to import simple_event_category Expired
+[WARNING] Failed to import product_type external
+[WARNING] Failed to import product_visibility featured
+[WARNING] Failed to import course_category Game Performance Reporting
+[WARNING] Failed to import product_tag Graphic Design
+[WARNING] Failed to import course_tag Graphic Design
+[WARNING] Failed to import course_category Graphics
+[WARNING] Failed to import pa_color Gray
+[WARNING] Failed to import pa_color Green
+[WARNING] Failed to import product_type grouped
+[WARNING] Failed to import simple_event_category Happening
+[WARNING] Failed to import product_cat Hoodies
+[WARNING] Failed to import course_tag InDesign
+[WARNING] Failed to import pa_size Large
+[WARNING] Failed to import pa_size Medium
+[WARNING] Failed to import product_cat Music
+[WARNING] Failed to import product_visibility outofstock
+[WARNING] Failed to import simple_event_tags Pattern
+[WARNING] Failed to import product_tag Photoshop
+[WARNING] Failed to import simple_event_tags Photoshop
+[WARNING] Failed to import course_tag Photoshop
+[WARNING] Failed to import product_visibility rated-1
+[WARNING] Failed to import product_visibility rated-2
+[WARNING] Failed to import product_visibility rated-3
+[WARNING] Failed to import product_visibility rated-4
+[WARNING] Failed to import product_visibility rated-5
+[WARNING] Failed to import pa_color Red
+[WARNING] Failed to import product_type simple
+[WARNING] Failed to import product_tag Sketch
+[WARNING] Failed to import simple_event_tags Sketch
+[WARNING] Failed to import course_tag Sketch
+[WARNING] Failed to import pa_size Small
+[WARNING] Failed to import product_cat Teaching and Education
+[WARNING] Failed to import product_cat Tshirts
+[WARNING] Failed to import product_cat Uncategorized
+[WARNING] Failed to import simple_event_category Upcoming
+[WARNING] Failed to import simple_event_tags UX/UI
+[WARNING] Failed to import course_tag UX/UI
+[WARNING] Failed to import product_type variable
+[WARNING] Failed to import simple_event_tags Vector
+[WARNING] Failed to import pa_color Yellow
+[WARNING] Failed to import product_cat Accessories
+[ERROR] Failed to import "woocommerce-placeholder" (Media)
+[WARNING] Failed to import "Header Default": Invalid post type apus_header
+[ERROR] Failed to import "breadcrumb-bkg" (Media)
+
+
+------
+New AJAX call!
+[WARNING] Failed to import course_category 2D
+[WARNING] Failed to import simple_event_tags 3d max
+[WARNING] Failed to import product_tag Adobe Illustrator
+[WARNING] Failed to import course_tag Adobe Illustrator
+[WARNING] Failed to import course_category Ads &amp; Analytics
+[WARNING] Failed to import course_tag After Effects
+[WARNING] Failed to import course_category Animation
+[WARNING] Failed to import simple_event_tags animation
+[WARNING] Failed to import course_category Asset Store
+[WARNING] Failed to import course_category Audio
+[WARNING] Failed to import product_tag Beginner
+[WARNING] Failed to import simple_event_tags Beginner
+[WARNING] Failed to import course_tag Beginner
+[WARNING] Failed to import course_category Best Practices
+[WARNING] Failed to import pa_color Blue
+[WARNING] Failed to import product_cat Business
+[WARNING] Failed to import product_tag Business
+[WARNING] Failed to import product_cat Clothing
+[WARNING] Failed to import course_category Cloud Build
+[WARNING] Failed to import course_tag CorelDRAW
+[WARNING] Failed to import product_cat Decor
+[WARNING] Failed to import course_category Developer Advice
+[WARNING] Failed to import product_cat Engineering
+[WARNING] Failed to import product_visibility exclude-from-catalog
+[WARNING] Failed to import product_visibility exclude-from-search
+[WARNING] Failed to import simple_event_category Expired
+[WARNING] Failed to import product_type external
+[WARNING] Failed to import product_visibility featured
+[WARNING] Failed to import course_category Game Performance Reporting
+[WARNING] Failed to import product_tag Graphic Design
+[WARNING] Failed to import course_tag Graphic Design
+[WARNING] Failed to import course_category Graphics
+[WARNING] Failed to import pa_color Gray
+[WARNING] Failed to import pa_color Green
+[WARNING] Failed to import product_type grouped
+[WARNING] Failed to import simple_event_category Happening
+[WARNING] Failed to import product_cat Hoodies
+[WARNING] Failed to import course_tag InDesign
+[WARNING] Failed to import pa_size Large
+[WARNING] Failed to import pa_size Medium
+[WARNING] Failed to import product_cat Music
+[WARNING] Failed to import product_visibility outofstock
+[WARNING] Failed to import simple_event_tags Pattern
+[WARNING] Failed to import product_tag Photoshop
+[WARNING] Failed to import simple_event_tags Photoshop
+[WARNING] Failed to import course_tag Photoshop
+[WARNING] Failed to import product_visibility rated-1
+[WARNING] Failed to import product_visibility rated-2
+[WARNING] Failed to import product_visibility rated-3
+[WARNING] Failed to import product_visibility rated-4
+[WARNING] Failed to import product_visibility rated-5
+[WARNING] Failed to import pa_color Red
+[WARNING] Failed to import product_type simple
+[WARNING] Failed to import product_tag Sketch
+[WARNING] Failed to import simple_event_tags Sketch
+[WARNING] Failed to import course_tag Sketch
+[WARNING] Failed to import pa_size Small
+[WARNING] Failed to import product_cat Teaching and Education
+[WARNING] Failed to import product_cat Tshirts
+[WARNING] Failed to import product_cat Uncategorized
+[WARNING] Failed to import simple_event_category Upcoming
+[WARNING] Failed to import simple_event_tags UX/UI
+[WARNING] Failed to import course_tag UX/UI
+[WARNING] Failed to import product_type variable
+[WARNING] Failed to import simple_event_tags Vector
+[WARNING] Failed to import pa_color Yellow
+[WARNING] Failed to import product_cat Accessories
+[ERROR] Failed to import "woocommerce-placeholder" (Media)
+[WARNING] Failed to import "Header Default": Invalid post type apus_header
+[ERROR] Failed to import "breadcrumb-bkg" (Media)
+
+
+------
+New AJAX call!
+[WARNING] Failed to import course_category 2D
+[WARNING] Failed to import simple_event_tags 3d max
+[WARNING] Failed to import product_tag Adobe Illustrator
+[WARNING] Failed to import course_tag Adobe Illustrator
+[WARNING] Failed to import course_category Ads &amp; Analytics
+[WARNING] Failed to import course_tag After Effects
+[WARNING] Failed to import course_category Animation
+[WARNING] Failed to import simple_event_tags animation
+[WARNING] Failed to import course_category Asset Store
+[WARNING] Failed to import course_category Audio
+[WARNING] Failed to import product_tag Beginner
+[WARNING] Failed to import simple_event_tags Beginner
+[WARNING] Failed to import course_tag Beginner
+[WARNING] Failed to import course_category Best Practices
+[WARNING] Failed to import pa_color Blue
+[WARNING] Failed to import product_cat Business
+[WARNING] Failed to import product_tag Business
+[WARNING] Failed to import product_cat Clothing
+[WARNING] Failed to import course_category Cloud Build
+[WARNING] Failed to import course_tag CorelDRAW
+[WARNING] Failed to import product_cat Decor
+[WARNING] Failed to import course_category Developer Advice
+[WARNING] Failed to import product_cat Engineering
+[WARNING] Failed to import product_visibility exclude-from-catalog
+[WARNING] Failed to import product_visibility exclude-from-search
+[WARNING] Failed to import simple_event_category Expired
+[WARNING] Failed to import product_type external
+[WARNING] Failed to import product_visibility featured
+[WARNING] Failed to import course_category Game Performance Reporting
+[WARNING] Failed to import product_tag Graphic Design
+[WARNING] Failed to import course_tag Graphic Design
+[WARNING] Failed to import course_category Graphics
+[WARNING] Failed to import pa_color Gray
+[WARNING] Failed to import pa_color Green
+[WARNING] Failed to import product_type grouped
+[WARNING] Failed to import simple_event_category Happening
+[WARNING] Failed to import product_cat Hoodies
+[WARNING] Failed to import course_tag InDesign
+[WARNING] Failed to import pa_size Large
+[WARNING] Failed to import pa_size Medium
+[WARNING] Failed to import product_cat Music
+[WARNING] Failed to import product_visibility outofstock
+[WARNING] Failed to import simple_event_tags Pattern
+[WARNING] Failed to import product_tag Photoshop
+[WARNING] Failed to import simple_event_tags Photoshop
+[WARNING] Failed to import course_tag Photoshop
+[WARNING] Failed to import product_visibility rated-1
+[WARNING] Failed to import product_visibility rated-2
+[WARNING] Failed to import product_visibility rated-3
+[WARNING] Failed to import product_visibility rated-4
+[WARNING] Failed to import product_visibility rated-5
+[WARNING] Failed to import pa_color Red
+[WARNING] Failed to import product_type simple
+[WARNING] Failed to import product_tag Sketch
+[WARNING] Failed to import simple_event_tags Sketch
+[WARNING] Failed to import course_tag Sketch
+[WARNING] Failed to import pa_size Small
+[WARNING] Failed to import product_cat Teaching and Education
+[WARNING] Failed to import product_cat Tshirts
+[WARNING] Failed to import product_cat Uncategorized
+[WARNING] Failed to import simple_event_category Upcoming
+[WARNING] Failed to import simple_event_tags UX/UI
+[WARNING] Failed to import course_tag UX/UI
+[WARNING] Failed to import product_type variable
+[WARNING] Failed to import simple_event_tags Vector
+[WARNING] Failed to import pa_color Yellow
+[WARNING] Failed to import product_cat Accessories
+[ERROR] Failed to import "woocommerce-placeholder" (Media)
+[WARNING] Failed to import "Header Default": Invalid post type apus_header
+[ERROR] Failed to import "breadcrumb-bkg" (Media)
+
+
+------
+New AJAX call!
+[WARNING] Failed to import course_category 2D
+[WARNING] Failed to import simple_event_tags 3d max
+[WARNING] Failed to import product_tag Adobe Illustrator
+[WARNING] Failed to import course_tag Adobe Illustrator
+[WARNING] Failed to import course_category Ads &amp; Analytics
+[WARNING] Failed to import course_tag After Effects
+[WARNING] Failed to import course_category Animation
+[WARNING] Failed to import simple_event_tags animation
+[WARNING] Failed to import course_category Asset Store
+[WARNING] Failed to import course_category Audio
+[WARNING] Failed to import product_tag Beginner
+[WARNING] Failed to import simple_event_tags Beginner
+[WARNING] Failed to import course_tag Beginner
+[WARNING] Failed to import course_category Best Practices
+[WARNING] Failed to import pa_color Blue
+[WARNING] Failed to import product_cat Business
+[WARNING] Failed to import product_tag Business
+[WARNING] Failed to import product_cat Clothing
+[WARNING] Failed to import course_category Cloud Build
+[WARNING] Failed to import course_tag CorelDRAW
+[WARNING] Failed to import product_cat Decor
+[WARNING] Failed to import course_category Developer Advice
+[WARNING] Failed to import product_cat Engineering
+[WARNING] Failed to import product_visibility exclude-from-catalog
+[WARNING] Failed to import product_visibility exclude-from-search
+[WARNING] Failed to import simple_event_category Expired
+[WARNING] Failed to import product_type external
+[WARNING] Failed to import product_visibility featured
+[WARNING] Failed to import course_category Game Performance Reporting
+[WARNING] Failed to import product_tag Graphic Design
+[WARNING] Failed to import course_tag Graphic Design
+[WARNING] Failed to import course_category Graphics
+[WARNING] Failed to import pa_color Gray
+[WARNING] Failed to import pa_color Green
+[WARNING] Failed to import product_type grouped
+[WARNING] Failed to import simple_event_category Happening
+[WARNING] Failed to import product_cat Hoodies
+[WARNING] Failed to import course_tag InDesign
+[WARNING] Failed to import pa_size Large
+[WARNING] Failed to import pa_size Medium
+[WARNING] Failed to import product_cat Music
+[WARNING] Failed to import product_visibility outofstock
+[WARNING] Failed to import simple_event_tags Pattern
+[WARNING] Failed to import product_tag Photoshop
+[WARNING] Failed to import simple_event_tags Photoshop
+[WARNING] Failed to import course_tag Photoshop
+[WARNING] Failed to import product_visibility rated-1
+[WARNING] Failed to import product_visibility rated-2
+[WARNING] Failed to import product_visibility rated-3
+[WARNING] Failed to import product_visibility rated-4
+[WARNING] Failed to import product_visibility rated-5
+[WARNING] Failed to import pa_color Red
+[WARNING] Failed to import product_type simple
+[WARNING] Failed to import product_tag Sketch
+[WARNING] Failed to import simple_event_tags Sketch
+[WARNING] Failed to import course_tag Sketch
+[WARNING] Failed to import pa_size Small
+[WARNING] Failed to import product_cat Teaching and Education
+[WARNING] Failed to import product_cat Tshirts
+[WARNING] Failed to import product_cat Uncategorized
+[WARNING] Failed to import simple_event_category Upcoming
+[WARNING] Failed to import simple_event_tags UX/UI
+[WARNING] Failed to import course_tag UX/UI
+[WARNING] Failed to import product_type variable
+[WARNING] Failed to import simple_event_tags Vector
+[WARNING] Failed to import pa_color Yellow
+[WARNING] Failed to import product_cat Accessories
+[ERROR] Failed to import "woocommerce-placeholder" (Media)
+[WARNING] Failed to import "Header Default": Invalid post type apus_header
+[ERROR] Failed to import "breadcrumb-bkg" (Media)
+
+
+------
+New AJAX call!
+[WARNING] Failed to import course_category 2D
+[WARNING] Failed to import simple_event_tags 3d max
+[WARNING] Failed to import product_tag Adobe Illustrator
+[WARNING] Failed to import course_tag Adobe Illustrator
+[WARNING] Failed to import course_category Ads &amp; Analytics
+[WARNING] Failed to import course_tag After Effects
+[WARNING] Failed to import course_category Animation
+[WARNING] Failed to import simple_event_tags animation
+[WARNING] Failed to import course_category Asset Store
+[WARNING] Failed to import course_category Audio
+[WARNING] Failed to import product_tag Beginner
+[WARNING] Failed to import simple_event_tags Beginner
+[WARNING] Failed to import course_tag Beginner
+[WARNING] Failed to import course_category Best Practices
+[WARNING] Failed to import pa_color Blue
+[WARNING] Failed to import product_cat Business
+[WARNING] Failed to import product_tag Business
+[WARNING] Failed to import product_cat Clothing
+[WARNING] Failed to import course_category Cloud Build
+[WARNING] Failed to import course_tag CorelDRAW
+[WARNING] Failed to import product_cat Decor
+[WARNING] Failed to import course_category Developer Advice
+[WARNING] Failed to import product_cat Engineering
+[WARNING] Failed to import product_visibility exclude-from-catalog
+[WARNING] Failed to import product_visibility exclude-from-search
+[WARNING] Failed to import simple_event_category Expired
+[WARNING] Failed to import product_type external
+[WARNING] Failed to import product_visibility featured
+[WARNING] Failed to import course_category Game Performance Reporting
+[WARNING] Failed to import product_tag Graphic Design
+[WARNING] Failed to import course_tag Graphic Design
+[WARNING] Failed to import course_category Graphics
+[WARNING] Failed to import pa_color Gray
+[WARNING] Failed to import pa_color Green
+[WARNING] Failed to import product_type grouped
+[WARNING] Failed to import simple_event_category Happening
+[WARNING] Failed to import product_cat Hoodies
+[WARNING] Failed to import course_tag InDesign
+[WARNING] Failed to import pa_size Large
+[WARNING] Failed to import pa_size Medium
+[WARNING] Failed to import product_cat Music
+[WARNING] Failed to import product_visibility outofstock
+[WARNING] Failed to import simple_event_tags Pattern
+[WARNING] Failed to import product_tag Photoshop
+[WARNING] Failed to import simple_event_tags Photoshop
+[WARNING] Failed to import course_tag Photoshop
+[WARNING] Failed to import product_visibility rated-1
+[WARNING] Failed to import product_visibility rated-2
+[WARNING] Failed to import product_visibility rated-3
+[WARNING] Failed to import product_visibility rated-4
+[WARNING] Failed to import product_visibility rated-5
+[WARNING] Failed to import pa_color Red
+[WARNING] Failed to import product_type simple
+[WARNING] Failed to import product_tag Sketch
+[WARNING] Failed to import simple_event_tags Sketch
+[WARNING] Failed to import course_tag Sketch
+[WARNING] Failed to import pa_size Small
+[WARNING] Failed to import product_cat Teaching and Education
+[WARNING] Failed to import product_cat Tshirts
+[WARNING] Failed to import product_cat Uncategorized
+[WARNING] Failed to import simple_event_category Upcoming
+[WARNING] Failed to import simple_event_tags UX/UI
+[WARNING] Failed to import course_tag UX/UI
+[WARNING] Failed to import product_type variable
+[WARNING] Failed to import simple_event_tags Vector
+[WARNING] Failed to import pa_color Yellow
+[WARNING] Failed to import product_cat Accessories
+[ERROR] Failed to import "woocommerce-placeholder" (Media)
+[WARNING] Failed to import "Header Default": Invalid post type apus_header
+[ERROR] Failed to import "breadcrumb-bkg" (Media)
+
+
+------
+New AJAX call!
+[WARNING] Failed to import course_category 2D
+[WARNING] Failed to import simple_event_tags 3d max
+[WARNING] Failed to import product_tag Adobe Illustrator
+[WARNING] Failed to import course_tag Adobe Illustrator
+[WARNING] Failed to import course_category Ads &amp; Analytics
+[WARNING] Failed to import course_tag After Effects
+[WARNING] Failed to import course_category Animation
+[WARNING] Failed to import simple_event_tags animation
+[WARNING] Failed to import course_category Asset Store
+[WARNING] Failed to import course_category Audio
+[WARNING] Failed to import product_tag Beginner
+[WARNING] Failed to import simple_event_tags Beginner
+[WARNING] Failed to import course_tag Beginner
+[WARNING] Failed to import course_category Best Practices
+[WARNING] Failed to import pa_color Blue
+[WARNING] Failed to import product_cat Business
+[WARNING] Failed to import product_tag Business
+[WARNING] Failed to import product_cat Clothing
+[WARNING] Failed to import course_category Cloud Build
+[WARNING] Failed to import course_tag CorelDRAW
+[WARNING] Failed to import product_cat Decor
+[WARNING] Failed to import course_category Developer Advice
+[WARNING] Failed to import product_cat Engineering
+[WARNING] Failed to import product_visibility exclude-from-catalog
+[WARNING] Failed to import product_visibility exclude-from-search
+[WARNING] Failed to import simple_event_category Expired
+[WARNING] Failed to import product_type external
+[WARNING] Failed to import product_visibility featured
+[WARNING] Failed to import course_category Game Performance Reporting
+[WARNING] Failed to import product_tag Graphic Design
+[WARNING] Failed to import course_tag Graphic Design
+[WARNING] Failed to import course_category Graphics
+[WARNING] Failed to import pa_color Gray
+[WARNING] Failed to import pa_color Green
+[WARNING] Failed to import product_type grouped
+[WARNING] Failed to import simple_event_category Happening
+[WARNING] Failed to import product_cat Hoodies
+[WARNING] Failed to import course_tag InDesign
+[WARNING] Failed to import pa_size Large
+[WARNING] Failed to import pa_size Medium
+[WARNING] Failed to import product_cat Music
+[WARNING] Failed to import product_visibility outofstock
+[WARNING] Failed to import simple_event_tags Pattern
+[WARNING] Failed to import product_tag Photoshop
+[WARNING] Failed to import simple_event_tags Photoshop
+[WARNING] Failed to import course_tag Photoshop
+[WARNING] Failed to import product_visibility rated-1
+[WARNING] Failed to import product_visibility rated-2
+[WARNING] Failed to import product_visibility rated-3
+[WARNING] Failed to import product_visibility rated-4
+[WARNING] Failed to import product_visibility rated-5
+[WARNING] Failed to import pa_color Red
+[WARNING] Failed to import product_type simple
+[WARNING] Failed to import product_tag Sketch
+[WARNING] Failed to import simple_event_tags Sketch
+[WARNING] Failed to import course_tag Sketch
+[WARNING] Failed to import pa_size Small
+[WARNING] Failed to import product_cat Teaching and Education
+[WARNING] Failed to import product_cat Tshirts
+[WARNING] Failed to import product_cat Uncategorized
+[WARNING] Failed to import simple_event_category Upcoming
+[WARNING] Failed to import simple_event_tags UX/UI
+[WARNING] Failed to import course_tag UX/UI
+[WARNING] Failed to import product_type variable
+[WARNING] Failed to import simple_event_tags Vector
+[WARNING] Failed to import pa_color Yellow
+[WARNING] Failed to import product_cat Accessories
+[ERROR] Failed to import "woocommerce-placeholder" (Media)
+[WARNING] Failed to import "Header Default": Invalid post type apus_header
+[ERROR] Failed to import "breadcrumb-bkg" (Media)
+
+
+------
+New AJAX call!
+[WARNING] Failed to import course_category 2D
+[WARNING] Failed to import simple_event_tags 3d max
+[WARNING] Failed to import product_tag Adobe Illustrator
+[WARNING] Failed to import course_tag Adobe Illustrator
+[WARNING] Failed to import course_category Ads &amp; Analytics
+[WARNING] Failed to import course_tag After Effects
+[WARNING] Failed to import course_category Animation
+[WARNING] Failed to import simple_event_tags animation
+[WARNING] Failed to import course_category Asset Store
+[WARNING] Failed to import course_category Audio
+[WARNING] Failed to import product_tag Beginner
+[WARNING] Failed to import simple_event_tags Beginner
+[WARNING] Failed to import course_tag Beginner
+[WARNING] Failed to import course_category Best Practices
+[WARNING] Failed to import pa_color Blue
+[WARNING] Failed to import product_cat Business
+[WARNING] Failed to import product_tag Business
+[WARNING] Failed to import product_cat Clothing
+[WARNING] Failed to import course_category Cloud Build
+[WARNING] Failed to import course_tag CorelDRAW
+[WARNING] Failed to import product_cat Decor
+[WARNING] Failed to import course_category Developer Advice
+[WARNING] Failed to import product_cat Engineering
+[WARNING] Failed to import product_visibility exclude-from-catalog
+[WARNING] Failed to import product_visibility exclude-from-search
+[WARNING] Failed to import simple_event_category Expired
+[WARNING] Failed to import product_type external
+[WARNING] Failed to import product_visibility featured
+[WARNING] Failed to import course_category Game Performance Reporting
+[WARNING] Failed to import product_tag Graphic Design
+[WARNING] Failed to import course_tag Graphic Design
+[WARNING] Failed to import course_category Graphics
+[WARNING] Failed to import pa_color Gray
+[WARNING] Failed to import pa_color Green
+[WARNING] Failed to import product_type grouped
+[WARNING] Failed to import simple_event_category Happening
+[WARNING] Failed to import product_cat Hoodies
+[WARNING] Failed to import course_tag InDesign
+[WARNING] Failed to import pa_size Large
+[WARNING] Failed to import pa_size Medium
+[WARNING] Failed to import product_cat Music
+[WARNING] Failed to import product_visibility outofstock
+[WARNING] Failed to import simple_event_tags Pattern
+[WARNING] Failed to import product_tag Photoshop
+[WARNING] Failed to import simple_event_tags Photoshop
+[WARNING] Failed to import course_tag Photoshop
+[WARNING] Failed to import product_visibility rated-1
+[WARNING] Failed to import product_visibility rated-2
+[WARNING] Failed to import product_visibility rated-3
+[WARNING] Failed to import product_visibility rated-4
+[WARNING] Failed to import product_visibility rated-5
+[WARNING] Failed to import pa_color Red
+[WARNING] Failed to import product_type simple
+[WARNING] Failed to import product_tag Sketch
+[WARNING] Failed to import simple_event_tags Sketch
+[WARNING] Failed to import course_tag Sketch
+[WARNING] Failed to import pa_size Small
+[WARNING] Failed to import product_cat Teaching and Education
+[WARNING] Failed to import product_cat Tshirts
+[WARNING] Failed to import product_cat Uncategorized
+[WARNING] Failed to import simple_event_category Upcoming
+[WARNING] Failed to import simple_event_tags UX/UI
+[WARNING] Failed to import course_tag UX/UI
+[WARNING] Failed to import product_type variable
+[WARNING] Failed to import simple_event_tags Vector
+[WARNING] Failed to import pa_color Yellow
+[WARNING] Failed to import product_cat Accessories
+[ERROR] Failed to import "woocommerce-placeholder" (Media)
+
+
+------
+New AJAX call!
+[WARNING] Failed to import course_category 2D
+[WARNING] Failed to import simple_event_tags 3d max
+[WARNING] Failed to import product_tag Adobe Illustrator
+[WARNING] Failed to import course_tag Adobe Illustrator
+[WARNING] Failed to import course_category Ads &amp; Analytics
+[WARNING] Failed to import course_tag After Effects
+[WARNING] Failed to import course_category Animation
+[WARNING] Failed to import simple_event_tags animation
+[WARNING] Failed to import course_category Asset Store
+[WARNING] Failed to import course_category Audio
+[WARNING] Failed to import product_tag Beginner
+[WARNING] Failed to import simple_event_tags Beginner
+[WARNING] Failed to import course_tag Beginner
+[WARNING] Failed to import course_category Best Practices
+[WARNING] Failed to import pa_color Blue
+[WARNING] Failed to import product_cat Business
+[WARNING] Failed to import product_tag Business
+[WARNING] Failed to import product_cat Clothing
+[WARNING] Failed to import course_category Cloud Build
+[WARNING] Failed to import course_tag CorelDRAW
+[WARNING] Failed to import product_cat Decor
+[WARNING] Failed to import course_category Developer Advice
+[WARNING] Failed to import product_cat Engineering
+[WARNING] Failed to import product_visibility exclude-from-catalog
+[WARNING] Failed to import product_visibility exclude-from-search
+[WARNING] Failed to import simple_event_category Expired
+[WARNING] Failed to import product_type external
+[WARNING] Failed to import product_visibility featured
+[WARNING] Failed to import course_category Game Performance Reporting
+[WARNING] Failed to import product_tag Graphic Design
+[WARNING] Failed to import course_tag Graphic Design
+[WARNING] Failed to import course_category Graphics
+[WARNING] Failed to import pa_color Gray
+[WARNING] Failed to import pa_color Green
+[WARNING] Failed to import product_type grouped
+[WARNING] Failed to import simple_event_category Happening
+[WARNING] Failed to import product_cat Hoodies
+[WARNING] Failed to import course_tag InDesign
+[WARNING] Failed to import pa_size Large
+[WARNING] Failed to import pa_size Medium
+[WARNING] Failed to import product_cat Music
+[WARNING] Failed to import product_visibility outofstock
+[WARNING] Failed to import simple_event_tags Pattern
+[WARNING] Failed to import product_tag Photoshop
+[WARNING] Failed to import simple_event_tags Photoshop
+[WARNING] Failed to import course_tag Photoshop
+[WARNING] Failed to import product_visibility rated-1
+[WARNING] Failed to import product_visibility rated-2
+[WARNING] Failed to import product_visibility rated-3
+[WARNING] Failed to import product_visibility rated-4
+[WARNING] Failed to import product_visibility rated-5
+[WARNING] Failed to import pa_color Red
+[WARNING] Failed to import product_type simple
+[WARNING] Failed to import product_tag Sketch
+[WARNING] Failed to import simple_event_tags Sketch
+[WARNING] Failed to import course_tag Sketch
+[WARNING] Failed to import pa_size Small
+[WARNING] Failed to import product_cat Teaching and Education
+[WARNING] Failed to import product_cat Tshirts
+[WARNING] Failed to import product_cat Uncategorized
+[WARNING] Failed to import simple_event_category Upcoming
+[WARNING] Failed to import simple_event_tags UX/UI
+[WARNING] Failed to import course_tag UX/UI
+[WARNING] Failed to import product_type variable
+[WARNING] Failed to import simple_event_tags Vector
+[WARNING] Failed to import pa_color Yellow
+[WARNING] Failed to import product_cat Accessories
+[ERROR] Failed to import "woocommerce-placeholder" (Media)
+[WARNING] Failed to import "Header Default": Invalid post type apus_header
+[ERROR] Failed to import "breadcrumb-bkg" (Media)
+
+
+------
+New AJAX call!
+[WARNING] Failed to import course_category 2D
+[WARNING] Failed to import simple_event_tags 3d max
+[WARNING] Failed to import product_tag Adobe Illustrator
+[WARNING] Failed to import course_tag Adobe Illustrator
+[WARNING] Failed to import course_category Ads &amp; Analytics
+[WARNING] Failed to import course_tag After Effects
+[WARNING] Failed to import course_category Animation
+[WARNING] Failed to import simple_event_tags animation
+[WARNING] Failed to import course_category Asset Store
+[WARNING] Failed to import course_category Audio
+[WARNING] Failed to import product_tag Beginner
+[WARNING] Failed to import simple_event_tags Beginner
+[WARNING] Failed to import course_tag Beginner
+[WARNING] Failed to import course_category Best Practices
+[WARNING] Failed to import pa_color Blue
+[WARNING] Failed to import product_cat Business
+[WARNING] Failed to import product_tag Business
+[WARNING] Failed to import product_cat Clothing
+[WARNING] Failed to import course_category Cloud Build
+[WARNING] Failed to import course_tag CorelDRAW
+[WARNING] Failed to import product_cat Decor
+[WARNING] Failed to import course_category Developer Advice
+[WARNING] Failed to import product_cat Engineering
+[WARNING] Failed to import product_visibility exclude-from-catalog
+[WARNING] Failed to import product_visibility exclude-from-search
+[WARNING] Failed to import simple_event_category Expired
+[WARNING] Failed to import product_type external
+[WARNING] Failed to import product_visibility featured
+[WARNING] Failed to import course_category Game Performance Reporting
+[WARNING] Failed to import product_tag Graphic Design
+[WARNING] Failed to import course_tag Graphic Design
+[WARNING] Failed to import course_category Graphics
+[WARNING] Failed to import pa_color Gray
+[WARNING] Failed to import pa_color Green
+[WARNING] Failed to import product_type grouped
+[WARNING] Failed to import simple_event_category Happening
+[WARNING] Failed to import product_cat Hoodies
+[WARNING] Failed to import course_tag InDesign
+[WARNING] Failed to import pa_size Large
+[WARNING] Failed to import pa_size Medium
+[WARNING] Failed to import product_cat Music
+[WARNING] Failed to import product_visibility outofstock
+[WARNING] Failed to import simple_event_tags Pattern
+[WARNING] Failed to import product_tag Photoshop
+[WARNING] Failed to import simple_event_tags Photoshop
+[WARNING] Failed to import course_tag Photoshop
+[WARNING] Failed to import product_visibility rated-1
+[WARNING] Failed to import product_visibility rated-2
+[WARNING] Failed to import product_visibility rated-3
+[WARNING] Failed to import product_visibility rated-4
+[WARNING] Failed to import product_visibility rated-5
+[WARNING] Failed to import pa_color Red
+[WARNING] Failed to import product_type simple
+[WARNING] Failed to import product_tag Sketch
+[WARNING] Failed to import simple_event_tags Sketch
+[WARNING] Failed to import course_tag Sketch
+[WARNING] Failed to import pa_size Small
+[WARNING] Failed to import product_cat Teaching and Education
+[WARNING] Failed to import product_cat Tshirts
+[WARNING] Failed to import product_cat Uncategorized
+[WARNING] Failed to import simple_event_category Upcoming
+[WARNING] Failed to import simple_event_tags UX/UI
+[WARNING] Failed to import course_tag UX/UI
+[WARNING] Failed to import product_type variable
+[WARNING] Failed to import simple_event_tags Vector
+[WARNING] Failed to import pa_color Yellow
+[WARNING] Failed to import product_cat Accessories
+[ERROR] Failed to import "woocommerce-placeholder" (Media)
+[WARNING] Failed to import "Header Default": Invalid post type apus_header
+[ERROR] Failed to import "breadcrumb-bkg" (Media)
+
+
+------
+New AJAX call!
+[WARNING] Failed to import course_category 2D
+[WARNING] Failed to import simple_event_tags 3d max
+[WARNING] Failed to import product_tag Adobe Illustrator
+[WARNING] Failed to import course_tag Adobe Illustrator
+[WARNING] Failed to import course_category Ads &amp; Analytics
+[WARNING] Failed to import course_tag After Effects
+[WARNING] Failed to import course_category Animation
+[WARNING] Failed to import simple_event_tags animation
+[WARNING] Failed to import course_category Asset Store
+[WARNING] Failed to import course_category Audio
+[WARNING] Failed to import product_tag Beginner
+[WARNING] Failed to import simple_event_tags Beginner
+[WARNING] Failed to import course_tag Beginner
+[WARNING] Failed to import course_category Best Practices
+[WARNING] Failed to import pa_color Blue
+[WARNING] Failed to import product_cat Business
+[WARNING] Failed to import product_tag Business
+[WARNING] Failed to import product_cat Clothing
+[WARNING] Failed to import course_category Cloud Build
+[WARNING] Failed to import course_tag CorelDRAW
+[WARNING] Failed to import product_cat Decor
+[WARNING] Failed to import course_category Developer Advice
+[WARNING] Failed to import product_cat Engineering
+[WARNING] Failed to import product_visibility exclude-from-catalog
+[WARNING] Failed to import product_visibility exclude-from-search
+[WARNING] Failed to import simple_event_category Expired
+[WARNING] Failed to import product_type external
+[WARNING] Failed to import product_visibility featured
+[WARNING] Failed to import course_category Game Performance Reporting
+[WARNING] Failed to import product_tag Graphic Design
+[WARNING] Failed to import course_tag Graphic Design
+[WARNING] Failed to import course_category Graphics
+[WARNING] Failed to import pa_color Gray
+[WARNING] Failed to import pa_color Green
+[WARNING] Failed to import product_type grouped
+[WARNING] Failed to import simple_event_category Happening
+[WARNING] Failed to import product_cat Hoodies
+[WARNING] Failed to import course_tag InDesign
+[WARNING] Failed to import pa_size Large
+[WARNING] Failed to import pa_size Medium
+[WARNING] Failed to import product_cat Music
+[WARNING] Failed to import product_visibility outofstock
+[WARNING] Failed to import simple_event_tags Pattern
+[WARNING] Failed to import product_tag Photoshop
+[WARNING] Failed to import simple_event_tags Photoshop
+[WARNING] Failed to import course_tag Photoshop
+[WARNING] Failed to import product_visibility rated-1
+[WARNING] Failed to import product_visibility rated-2
+[WARNING] Failed to import product_visibility rated-3
+[WARNING] Failed to import product_visibility rated-4
+[WARNING] Failed to import product_visibility rated-5
+[WARNING] Failed to import pa_color Red
+[WARNING] Failed to import product_type simple
+[WARNING] Failed to import product_tag Sketch
+[WARNING] Failed to import simple_event_tags Sketch
+[WARNING] Failed to import course_tag Sketch
+[WARNING] Failed to import pa_size Small
+[WARNING] Failed to import product_cat Teaching and Education
+[WARNING] Failed to import product_cat Tshirts
+[WARNING] Failed to import product_cat Uncategorized
+[WARNING] Failed to import simple_event_category Upcoming
+[WARNING] Failed to import simple_event_tags UX/UI
+[WARNING] Failed to import course_tag UX/UI
+[WARNING] Failed to import product_type variable
+[WARNING] Failed to import simple_event_tags Vector
+[WARNING] Failed to import pa_color Yellow
+[WARNING] Failed to import product_cat Accessories
+[ERROR] Failed to import "woocommerce-placeholder" (Media)
+[WARNING] Failed to import "Header Default": Invalid post type apus_header
+[ERROR] Failed to import "breadcrumb-bkg" (Media)
+
+
+------
+New AJAX call!
+[WARNING] Failed to import course_category 2D
+[WARNING] Failed to import simple_event_tags 3d max
+[WARNING] Failed to import product_tag Adobe Illustrator
+[WARNING] Failed to import course_tag Adobe Illustrator
+[WARNING] Failed to import course_category Ads &amp; Analytics
+[WARNING] Failed to import course_tag After Effects
+[WARNING] Failed to import course_category Animation
+[WARNING] Failed to import simple_event_tags animation
+[WARNING] Failed to import course_category Asset Store
+[WARNING] Failed to import course_category Audio
+[WARNING] Failed to import product_tag Beginner
+[WARNING] Failed to import simple_event_tags Beginner
+[WARNING] Failed to import course_tag Beginner
+[WARNING] Failed to import course_category Best Practices
+[WARNING] Failed to import pa_color Blue
+[WARNING] Failed to import product_cat Business
+[WARNING] Failed to import product_tag Business
+[WARNING] Failed to import product_cat Clothing
+[WARNING] Failed to import course_category Cloud Build
+[WARNING] Failed to import course_tag CorelDRAW
+[WARNING] Failed to import product_cat Decor
+[WARNING] Failed to import course_category Developer Advice
+[WARNING] Failed to import product_cat Engineering
+[WARNING] Failed to import product_visibility exclude-from-catalog
+[WARNING] Failed to import product_visibility exclude-from-search
+[WARNING] Failed to import simple_event_category Expired
+[WARNING] Failed to import product_type external
+[WARNING] Failed to import product_visibility featured
+[WARNING] Failed to import course_category Game Performance Reporting
+[WARNING] Failed to import product_tag Graphic Design
+[WARNING] Failed to import course_tag Graphic Design
+[WARNING] Failed to import course_category Graphics
+[WARNING] Failed to import pa_color Gray
+[WARNING] Failed to import pa_color Green
+[WARNING] Failed to import product_type grouped
+[WARNING] Failed to import simple_event_category Happening
+[WARNING] Failed to import product_cat Hoodies
+[WARNING] Failed to import course_tag InDesign
+[WARNING] Failed to import pa_size Large
+[WARNING] Failed to import pa_size Medium
+[WARNING] Failed to import product_cat Music
+[WARNING] Failed to import product_visibility outofstock
+[WARNING] Failed to import simple_event_tags Pattern
+[WARNING] Failed to import product_tag Photoshop
+[WARNING] Failed to import simple_event_tags Photoshop
+[WARNING] Failed to import course_tag Photoshop
+[WARNING] Failed to import product_visibility rated-1
+[WARNING] Failed to import product_visibility rated-2
+[WARNING] Failed to import product_visibility rated-3
+[WARNING] Failed to import product_visibility rated-4
+[WARNING] Failed to import product_visibility rated-5
+[WARNING] Failed to import pa_color Red
+[WARNING] Failed to import product_type simple
+[WARNING] Failed to import product_tag Sketch
+[WARNING] Failed to import simple_event_tags Sketch
+[WARNING] Failed to import course_tag Sketch
+[WARNING] Failed to import pa_size Small
+[WARNING] Failed to import product_cat Teaching and Education
+[WARNING] Failed to import product_cat Tshirts
+[WARNING] Failed to import product_cat Uncategorized
+[WARNING] Failed to import simple_event_category Upcoming
+[WARNING] Failed to import simple_event_tags UX/UI
+[WARNING] Failed to import course_tag UX/UI
+[WARNING] Failed to import product_type variable
+[WARNING] Failed to import simple_event_tags Vector
+[WARNING] Failed to import pa_color Yellow
+[WARNING] Failed to import product_cat Accessories
+[ERROR] Failed to import "woocommerce-placeholder" (Media)
+
+
+------
+New AJAX call!
+[WARNING] Failed to import course_category 2D
+[WARNING] Failed to import simple_event_tags 3d max
+[WARNING] Failed to import product_tag Adobe Illustrator
+[WARNING] Failed to import course_tag Adobe Illustrator
+[WARNING] Failed to import course_category Ads &amp; Analytics
+[WARNING] Failed to import course_tag After Effects
+[WARNING] Failed to import course_category Animation
+[WARNING] Failed to import simple_event_tags animation
+[WARNING] Failed to import course_category Asset Store
+[WARNING] Failed to import course_category Audio
+[WARNING] Failed to import product_tag Beginner
+[WARNING] Failed to import simple_event_tags Beginner
+[WARNING] Failed to import course_tag Beginner
+[WARNING] Failed to import course_category Best Practices
+[WARNING] Failed to import pa_color Blue
+[WARNING] Failed to import product_cat Business
+[WARNING] Failed to import product_tag Business
+[WARNING] Failed to import product_cat Clothing
+[WARNING] Failed to import course_category Cloud Build
+[WARNING] Failed to import course_tag CorelDRAW
+[WARNING] Failed to import product_cat Decor
+[WARNING] Failed to import course_category Developer Advice
+[WARNING] Failed to import product_cat Engineering
+[WARNING] Failed to import product_visibility exclude-from-catalog
+[WARNING] Failed to import product_visibility exclude-from-search
+[WARNING] Failed to import simple_event_category Expired
+[WARNING] Failed to import product_type external
+[WARNING] Failed to import product_visibility featured
+[WARNING] Failed to import course_category Game Performance Reporting
+[WARNING] Failed to import product_tag Graphic Design
+[WARNING] Failed to import course_tag Graphic Design
+[WARNING] Failed to import course_category Graphics
+[WARNING] Failed to import pa_color Gray
+[WARNING] Failed to import pa_color Green
+[WARNING] Failed to import product_type grouped
+[WARNING] Failed to import simple_event_category Happening
+[WARNING] Failed to import product_cat Hoodies
+[WARNING] Failed to import course_tag InDesign
+[WARNING] Failed to import pa_size Large
+[WARNING] Failed to import pa_size Medium
+[WARNING] Failed to import product_cat Music
+[WARNING] Failed to import product_visibility outofstock
+[WARNING] Failed to import simple_event_tags Pattern
+[WARNING] Failed to import product_tag Photoshop
+[WARNING] Failed to import simple_event_tags Photoshop
+[WARNING] Failed to import course_tag Photoshop
+[WARNING] Failed to import product_visibility rated-1
+[WARNING] Failed to import product_visibility rated-2
+[WARNING] Failed to import product_visibility rated-3
+[WARNING] Failed to import product_visibility rated-4
+[WARNING] Failed to import product_visibility rated-5
+[WARNING] Failed to import pa_color Red
+[WARNING] Failed to import product_type simple
+[WARNING] Failed to import product_tag Sketch
+[WARNING] Failed to import simple_event_tags Sketch
+[WARNING] Failed to import course_tag Sketch
+[WARNING] Failed to import pa_size Small
+[WARNING] Failed to import product_cat Teaching and Education
+[WARNING] Failed to import product_cat Tshirts
+[WARNING] Failed to import product_cat Uncategorized
+[WARNING] Failed to import simple_event_category Upcoming
+[WARNING] Failed to import simple_event_tags UX/UI
+[WARNING] Failed to import course_tag UX/UI
+[WARNING] Failed to import product_type variable
+[WARNING] Failed to import simple_event_tags Vector
+[WARNING] Failed to import pa_color Yellow
+[WARNING] Failed to import product_cat Accessories
+[ERROR] Failed to import "woocommerce-placeholder" (Media)
+[WARNING] Failed to import "Header Default": Invalid post type apus_header
+[ERROR] Failed to import "breadcrumb-bkg" (Media)
+
+
+------
+New AJAX call!
+[WARNING] Failed to import course_category 2D
+[WARNING] Failed to import simple_event_tags 3d max
+[WARNING] Failed to import product_tag Adobe Illustrator
+[WARNING] Failed to import course_tag Adobe Illustrator
+[WARNING] Failed to import course_category Ads &amp; Analytics
+[WARNING] Failed to import course_tag After Effects
+[WARNING] Failed to import course_category Animation
+[WARNING] Failed to import simple_event_tags animation
+[WARNING] Failed to import course_category Asset Store
+[WARNING] Failed to import course_category Audio
+[WARNING] Failed to import product_tag Beginner
+[WARNING] Failed to import simple_event_tags Beginner
+[WARNING] Failed to import course_tag Beginner
+[WARNING] Failed to import course_category Best Practices
+[WARNING] Failed to import pa_color Blue
+[WARNING] Failed to import product_cat Business
+[WARNING] Failed to import product_tag Business
+[WARNING] Failed to import product_cat Clothing
+[WARNING] Failed to import course_category Cloud Build
+[WARNING] Failed to import course_tag CorelDRAW
+[WARNING] Failed to import product_cat Decor
+[WARNING] Failed to import course_category Developer Advice
+[WARNING] Failed to import product_cat Engineering
+[WARNING] Failed to import product_visibility exclude-from-catalog
+[WARNING] Failed to import product_visibility exclude-from-search
+[WARNING] Failed to import simple_event_category Expired
+[WARNING] Failed to import product_type external
+[WARNING] Failed to import product_visibility featured
+[WARNING] Failed to import course_category Game Performance Reporting
+[WARNING] Failed to import product_tag Graphic Design
+[WARNING] Failed to import course_tag Graphic Design
+[WARNING] Failed to import course_category Graphics
+[WARNING] Failed to import pa_color Gray
+[WARNING] Failed to import pa_color Green
+[WARNING] Failed to import product_type grouped
+[WARNING] Failed to import simple_event_category Happening
+[WARNING] Failed to import product_cat Hoodies
+[WARNING] Failed to import course_tag InDesign
+[WARNING] Failed to import pa_size Large
+[WARNING] Failed to import pa_size Medium
+[WARNING] Failed to import product_cat Music
+[WARNING] Failed to import product_visibility outofstock
+[WARNING] Failed to import simple_event_tags Pattern
+[WARNING] Failed to import product_tag Photoshop
+[WARNING] Failed to import simple_event_tags Photoshop
+[WARNING] Failed to import course_tag Photoshop
+[WARNING] Failed to import product_visibility rated-1
+[WARNING] Failed to import product_visibility rated-2
+[WARNING] Failed to import product_visibility rated-3
+[WARNING] Failed to import product_visibility rated-4
+[WARNING] Failed to import product_visibility rated-5
+[WARNING] Failed to import pa_color Red
+[WARNING] Failed to import product_type simple
+[WARNING] Failed to import product_tag Sketch
+[WARNING] Failed to import simple_event_tags Sketch
+[WARNING] Failed to import course_tag Sketch
+[WARNING] Failed to import pa_size Small
+[WARNING] Failed to import product_cat Teaching and Education
+[WARNING] Failed to import product_cat Tshirts
+[WARNING] Failed to import product_cat Uncategorized
+[WARNING] Failed to import simple_event_category Upcoming
+[WARNING] Failed to import simple_event_tags UX/UI
+[WARNING] Failed to import course_tag UX/UI
+[WARNING] Failed to import product_type variable
+[WARNING] Failed to import simple_event_tags Vector
+[WARNING] Failed to import pa_color Yellow
+[WARNING] Failed to import product_cat Accessories
+[ERROR] Failed to import "woocommerce-placeholder" (Media)
+[WARNING] Failed to import "Header Default": Invalid post type apus_header
+[ERROR] Failed to import "breadcrumb-bkg" (Media)
+
+
+------
+New AJAX call!
+[WARNING] Failed to import course_category 2D
+[WARNING] Failed to import simple_event_tags 3d max
+[WARNING] Failed to import product_tag Adobe Illustrator
+[WARNING] Failed to import course_tag Adobe Illustrator
+[WARNING] Failed to import course_category Ads &amp; Analytics
+[WARNING] Failed to import course_tag After Effects
+[WARNING] Failed to import course_category Animation
+[WARNING] Failed to import simple_event_tags animation
+[WARNING] Failed to import course_category Asset Store
+[WARNING] Failed to import course_category Audio
+[WARNING] Failed to import product_tag Beginner
+[WARNING] Failed to import simple_event_tags Beginner
+[WARNING] Failed to import course_tag Beginner
+[WARNING] Failed to import course_category Best Practices
+[WARNING] Failed to import pa_color Blue
+[WARNING] Failed to import product_cat Business
+[WARNING] Failed to import product_tag Business
+[WARNING] Failed to import product_cat Clothing
+[WARNING] Failed to import course_category Cloud Build
+[WARNING] Failed to import course_tag CorelDRAW
+[WARNING] Failed to import product_cat Decor
+[WARNING] Failed to import course_category Developer Advice
+[WARNING] Failed to import product_cat Engineering
+[WARNING] Failed to import product_visibility exclude-from-catalog
+[WARNING] Failed to import product_visibility exclude-from-search
+[WARNING] Failed to import simple_event_category Expired
+[WARNING] Failed to import product_type external
+[WARNING] Failed to import product_visibility featured
+[WARNING] Failed to import course_category Game Performance Reporting
+[WARNING] Failed to import product_tag Graphic Design
+[WARNING] Failed to import course_tag Graphic Design
+[WARNING] Failed to import course_category Graphics
+[WARNING] Failed to import pa_color Gray
+[WARNING] Failed to import pa_color Green
+[WARNING] Failed to import product_type grouped
+[WARNING] Failed to import simple_event_category Happening
+[WARNING] Failed to import product_cat Hoodies
+[WARNING] Failed to import course_tag InDesign
+[WARNING] Failed to import pa_size Large
+[WARNING] Failed to import pa_size Medium
+[WARNING] Failed to import product_cat Music
+[WARNING] Failed to import product_visibility outofstock
+[WARNING] Failed to import simple_event_tags Pattern
+[WARNING] Failed to import product_tag Photoshop
+[WARNING] Failed to import simple_event_tags Photoshop
+[WARNING] Failed to import course_tag Photoshop
+[WARNING] Failed to import product_visibility rated-1
+[WARNING] Failed to import product_visibility rated-2
+[WARNING] Failed to import product_visibility rated-3
+[WARNING] Failed to import product_visibility rated-4
+[WARNING] Failed to import product_visibility rated-5
+[WARNING] Failed to import pa_color Red
+[WARNING] Failed to import product_type simple
+[WARNING] Failed to import product_tag Sketch
+[WARNING] Failed to import simple_event_tags Sketch
+[WARNING] Failed to import course_tag Sketch
+[WARNING] Failed to import pa_size Small
+[WARNING] Failed to import product_cat Teaching and Education
+[WARNING] Failed to import product_cat Tshirts
+[WARNING] Failed to import product_cat Uncategorized
+[WARNING] Failed to import simple_event_category Upcoming
+[WARNING] Failed to import simple_event_tags UX/UI
+[WARNING] Failed to import course_tag UX/UI
+[WARNING] Failed to import product_type variable
+[WARNING] Failed to import simple_event_tags Vector
+[WARNING] Failed to import pa_color Yellow
+[WARNING] Failed to import product_cat Accessories
+[ERROR] Failed to import "woocommerce-placeholder" (Media)
+[WARNING] Failed to import "Header Default": Invalid post type apus_header
+[ERROR] Failed to import "breadcrumb-bkg" (Media)
+
+
+------
+New AJAX call!
+[WARNING] Failed to import course_category 2D
+[WARNING] Failed to import simple_event_tags 3d max
+[WARNING] Failed to import product_tag Adobe Illustrator
+[WARNING] Failed to import course_tag Adobe Illustrator
+[WARNING] Failed to import course_category Ads &amp; Analytics
+[WARNING] Failed to import course_tag After Effects
+[WARNING] Failed to import course_category Animation
+[WARNING] Failed to import simple_event_tags animation
+[WARNING] Failed to import course_category Asset Store
+[WARNING] Failed to import course_category Audio
+[WARNING] Failed to import product_tag Beginner
+[WARNING] Failed to import simple_event_tags Beginner
+[WARNING] Failed to import course_tag Beginner
+[WARNING] Failed to import course_category Best Practices
+[WARNING] Failed to import pa_color Blue
+[WARNING] Failed to import product_cat Business
+[WARNING] Failed to import product_tag Business
+[WARNING] Failed to import product_cat Clothing
+[WARNING] Failed to import course_category Cloud Build
+[WARNING] Failed to import course_tag CorelDRAW
+[WARNING] Failed to import product_cat Decor
+[WARNING] Failed to import course_category Developer Advice
+[WARNING] Failed to import product_cat Engineering
+[WARNING] Failed to import product_visibility exclude-from-catalog
+[WARNING] Failed to import product_visibility exclude-from-search
+[WARNING] Failed to import simple_event_category Expired
+[WARNING] Failed to import product_type external
+[WARNING] Failed to import product_visibility featured
+[WARNING] Failed to import course_category Game Performance Reporting
+[WARNING] Failed to import product_tag Graphic Design
+[WARNING] Failed to import course_tag Graphic Design
+[WARNING] Failed to import course_category Graphics
+[WARNING] Failed to import pa_color Gray
+[WARNING] Failed to import pa_color Green
+[WARNING] Failed to import product_type grouped
+[WARNING] Failed to import simple_event_category Happening
+[WARNING] Failed to import product_cat Hoodies
+[WARNING] Failed to import course_tag InDesign
+[WARNING] Failed to import pa_size Large
+[WARNING] Failed to import pa_size Medium
+[WARNING] Failed to import product_cat Music
+[WARNING] Failed to import product_visibility outofstock
+[WARNING] Failed to import simple_event_tags Pattern
+[WARNING] Failed to import product_tag Photoshop
+[WARNING] Failed to import simple_event_tags Photoshop
+[WARNING] Failed to import course_tag Photoshop
+[WARNING] Failed to import product_visibility rated-1
+[WARNING] Failed to import product_visibility rated-2
+[WARNING] Failed to import product_visibility rated-3
+[WARNING] Failed to import product_visibility rated-4
+[WARNING] Failed to import product_visibility rated-5
+[WARNING] Failed to import pa_color Red
+[WARNING] Failed to import product_type simple
+[WARNING] Failed to import product_tag Sketch
+[WARNING] Failed to import simple_event_tags Sketch
+[WARNING] Failed to import course_tag Sketch
+[WARNING] Failed to import pa_size Small
+[WARNING] Failed to import product_cat Teaching and Education
+[WARNING] Failed to import product_cat Tshirts
+[WARNING] Failed to import product_cat Uncategorized
+[WARNING] Failed to import simple_event_category Upcoming
+[WARNING] Failed to import simple_event_tags UX/UI
+[WARNING] Failed to import course_tag UX/UI
+[WARNING] Failed to import product_type variable
+[WARNING] Failed to import simple_event_tags Vector
+[WARNING] Failed to import pa_color Yellow
+[WARNING] Failed to import product_cat Accessories
+[ERROR] Failed to import "woocommerce-placeholder" (Media)
+[WARNING] Failed to import "Header Default": Invalid post type apus_header
+[ERROR] Failed to import "breadcrumb-bkg" (Media)
+
+
+------
+New AJAX call!
+[WARNING] Failed to import course_category 2D
+[WARNING] Failed to import simple_event_tags 3d max
+[WARNING] Failed to import product_tag Adobe Illustrator
+[WARNING] Failed to import course_tag Adobe Illustrator
+[WARNING] Failed to import course_category Ads &amp; Analytics
+[WARNING] Failed to import course_tag After Effects
+[WARNING] Failed to import course_category Animation
+[WARNING] Failed to import simple_event_tags animation
+[WARNING] Failed to import course_category Asset Store
+[WARNING] Failed to import course_category Audio
+[WARNING] Failed to import product_tag Beginner
+[WARNING] Failed to import simple_event_tags Beginner
+[WARNING] Failed to import course_tag Beginner
+[WARNING] Failed to import course_category Best Practices
+[WARNING] Failed to import pa_color Blue
+[WARNING] Failed to import product_cat Business
+[WARNING] Failed to import product_tag Business
+[WARNING] Failed to import product_cat Clothing
+[WARNING] Failed to import course_category Cloud Build
+[WARNING] Failed to import course_tag CorelDRAW
+[WARNING] Failed to import product_cat Decor
+[WARNING] Failed to import course_category Developer Advice
+[WARNING] Failed to import product_cat Engineering
+[WARNING] Failed to import product_visibility exclude-from-catalog
+[WARNING] Failed to import product_visibility exclude-from-search
+[WARNING] Failed to import simple_event_category Expired
+[WARNING] Failed to import product_type external
+[WARNING] Failed to import product_visibility featured
+[WARNING] Failed to import course_category Game Performance Reporting
+[WARNING] Failed to import product_tag Graphic Design
+[WARNING] Failed to import course_tag Graphic Design
+[WARNING] Failed to import course_category Graphics
+[WARNING] Failed to import pa_color Gray
+[WARNING] Failed to import pa_color Green
+[WARNING] Failed to import product_type grouped
+[WARNING] Failed to import simple_event_category Happening
+[WARNING] Failed to import product_cat Hoodies
+[WARNING] Failed to import course_tag InDesign
+[WARNING] Failed to import pa_size Large
+[WARNING] Failed to import pa_size Medium
+[WARNING] Failed to import product_cat Music
+[WARNING] Failed to import product_visibility outofstock
+[WARNING] Failed to import simple_event_tags Pattern
+[WARNING] Failed to import product_tag Photoshop
+[WARNING] Failed to import simple_event_tags Photoshop
+[WARNING] Failed to import course_tag Photoshop
+[WARNING] Failed to import product_visibility rated-1
+[WARNING] Failed to import product_visibility rated-2
+[WARNING] Failed to import product_visibility rated-3
+[WARNING] Failed to import product_visibility rated-4
+[WARNING] Failed to import product_visibility rated-5
+[WARNING] Failed to import pa_color Red
+[WARNING] Failed to import product_type simple
+[WARNING] Failed to import product_tag Sketch
+[WARNING] Failed to import simple_event_tags Sketch
+[WARNING] Failed to import course_tag Sketch
+[WARNING] Failed to import pa_size Small
+[WARNING] Failed to import product_cat Teaching and Education
+[WARNING] Failed to import product_cat Tshirts
+[WARNING] Failed to import product_cat Uncategorized
+[WARNING] Failed to import simple_event_category Upcoming
+[WARNING] Failed to import simple_event_tags UX/UI
+[WARNING] Failed to import course_tag UX/UI
+[WARNING] Failed to import product_type variable
+[WARNING] Failed to import simple_event_tags Vector
+[WARNING] Failed to import pa_color Yellow
+[WARNING] Failed to import product_cat Accessories
+[ERROR] Failed to import "woocommerce-placeholder" (Media)
+[WARNING] Failed to import "Header Default": Invalid post type apus_header
+[ERROR] Failed to import "breadcrumb-bkg" (Media)
+
+
+------
+New AJAX call!
+[WARNING] Failed to import course_category 2D
+[WARNING] Failed to import simple_event_tags 3d max
+[WARNING] Failed to import product_tag Adobe Illustrator
+[WARNING] Failed to import course_tag Adobe Illustrator
+[WARNING] Failed to import course_category Ads &amp; Analytics
+[WARNING] Failed to import course_tag After Effects
+[WARNING] Failed to import course_category Animation
+[WARNING] Failed to import simple_event_tags animation
+[WARNING] Failed to import course_category Asset Store
+[WARNING] Failed to import course_category Audio
+[WARNING] Failed to import product_tag Beginner
+[WARNING] Failed to import simple_event_tags Beginner
+[WARNING] Failed to import course_tag Beginner
+[WARNING] Failed to import course_category Best Practices
+[WARNING] Failed to import pa_color Blue
+[WARNING] Failed to import product_cat Business
+[WARNING] Failed to import product_tag Business
+[WARNING] Failed to import product_cat Clothing
+[WARNING] Failed to import course_category Cloud Build
+[WARNING] Failed to import course_tag CorelDRAW
+[WARNING] Failed to import product_cat Decor
+[WARNING] Failed to import course_category Developer Advice
+[WARNING] Failed to import product_cat Engineering
+[WARNING] Failed to import product_visibility exclude-from-catalog
+[WARNING] Failed to import product_visibility exclude-from-search
+[WARNING] Failed to import simple_event_category Expired
+[WARNING] Failed to import product_type external
+[WARNING] Failed to import product_visibility featured
+[WARNING] Failed to import course_category Game Performance Reporting
+[WARNING] Failed to import product_tag Graphic Design
+[WARNING] Failed to import course_tag Graphic Design
+[WARNING] Failed to import course_category Graphics
+[WARNING] Failed to import pa_color Gray
+[WARNING] Failed to import pa_color Green
+[WARNING] Failed to import product_type grouped
+[WARNING] Failed to import simple_event_category Happening
+[WARNING] Failed to import product_cat Hoodies
+[WARNING] Failed to import course_tag InDesign
+[WARNING] Failed to import pa_size Large
+[WARNING] Failed to import pa_size Medium
+[WARNING] Failed to import product_cat Music
+[WARNING] Failed to import product_visibility outofstock
+[WARNING] Failed to import simple_event_tags Pattern
+[WARNING] Failed to import product_tag Photoshop
+[WARNING] Failed to import simple_event_tags Photoshop
+[WARNING] Failed to import course_tag Photoshop
+[WARNING] Failed to import product_visibility rated-1
+[WARNING] Failed to import product_visibility rated-2
+[WARNING] Failed to import product_visibility rated-3
+[WARNING] Failed to import product_visibility rated-4
+[WARNING] Failed to import product_visibility rated-5
+[WARNING] Failed to import pa_color Red
+[WARNING] Failed to import product_type simple
+[WARNING] Failed to import product_tag Sketch
+[WARNING] Failed to import simple_event_tags Sketch
+[WARNING] Failed to import course_tag Sketch
+[WARNING] Failed to import pa_size Small
+[WARNING] Failed to import product_cat Teaching and Education
+[WARNING] Failed to import product_cat Tshirts
+[WARNING] Failed to import product_cat Uncategorized
+[WARNING] Failed to import simple_event_category Upcoming
+[WARNING] Failed to import simple_event_tags UX/UI
+[WARNING] Failed to import course_tag UX/UI
+[WARNING] Failed to import product_type variable
+[WARNING] Failed to import simple_event_tags Vector
+[WARNING] Failed to import pa_color Yellow
+[WARNING] Failed to import product_cat Accessories
+[ERROR] Failed to import "woocommerce-placeholder" (Media)
+[WARNING] Failed to import "Header Default": Invalid post type apus_header
+[ERROR] Failed to import "breadcrumb-bkg" (Media)
+
+
+------
+New AJAX call!
+[WARNING] Failed to import course_category 2D
+[WARNING] Failed to import simple_event_tags 3d max
+[WARNING] Failed to import product_tag Adobe Illustrator
+[WARNING] Failed to import course_tag Adobe Illustrator
+[WARNING] Failed to import course_category Ads &amp; Analytics
+[WARNING] Failed to import course_tag After Effects
+[WARNING] Failed to import course_category Animation
+[WARNING] Failed to import simple_event_tags animation
+[WARNING] Failed to import course_category Asset Store
+[WARNING] Failed to import course_category Audio
+[WARNING] Failed to import product_tag Beginner
+[WARNING] Failed to import simple_event_tags Beginner
+[WARNING] Failed to import course_tag Beginner
+[WARNING] Failed to import course_category Best Practices
+[WARNING] Failed to import pa_color Blue
+[WARNING] Failed to import product_cat Business
+[WARNING] Failed to import product_tag Business
+[WARNING] Failed to import product_cat Clothing
+[WARNING] Failed to import course_category Cloud Build
+[WARNING] Failed to import course_tag CorelDRAW
+[WARNING] Failed to import product_cat Decor
+[WARNING] Failed to import course_category Developer Advice
+[WARNING] Failed to import product_cat Engineering
+[WARNING] Failed to import product_visibility exclude-from-catalog
+[WARNING] Failed to import product_visibility exclude-from-search
+[WARNING] Failed to import simple_event_category Expired
+[WARNING] Failed to import product_type external
+[WARNING] Failed to import product_visibility featured
+[WARNING] Failed to import course_category Game Performance Reporting
+[WARNING] Failed to import product_tag Graphic Design
+[WARNING] Failed to import course_tag Graphic Design
+[WARNING] Failed to import course_category Graphics
+[WARNING] Failed to import pa_color Gray
+[WARNING] Failed to import pa_color Green
+[WARNING] Failed to import product_type grouped
+[WARNING] Failed to import simple_event_category Happening
+[WARNING] Failed to import product_cat Hoodies
+[WARNING] Failed to import course_tag InDesign
+[WARNING] Failed to import pa_size Large
+[WARNING] Failed to import pa_size Medium
+[WARNING] Failed to import product_cat Music
+[WARNING] Failed to import product_visibility outofstock
+[WARNING] Failed to import simple_event_tags Pattern
+[WARNING] Failed to import product_tag Photoshop
+[WARNING] Failed to import simple_event_tags Photoshop
+[WARNING] Failed to import course_tag Photoshop
+[WARNING] Failed to import product_visibility rated-1
+[WARNING] Failed to import product_visibility rated-2
+[WARNING] Failed to import product_visibility rated-3
+[WARNING] Failed to import product_visibility rated-4
+[WARNING] Failed to import product_visibility rated-5
+[WARNING] Failed to import pa_color Red
+[WARNING] Failed to import product_type simple
+[WARNING] Failed to import product_tag Sketch
+[WARNING] Failed to import simple_event_tags Sketch
+[WARNING] Failed to import course_tag Sketch
+[WARNING] Failed to import pa_size Small
+[WARNING] Failed to import product_cat Teaching and Education
+[WARNING] Failed to import product_cat Tshirts
+[WARNING] Failed to import product_cat Uncategorized
+[WARNING] Failed to import simple_event_category Upcoming
+[WARNING] Failed to import simple_event_tags UX/UI
+[WARNING] Failed to import course_tag UX/UI
+[WARNING] Failed to import product_type variable
+[WARNING] Failed to import simple_event_tags Vector
+[WARNING] Failed to import pa_color Yellow
+[WARNING] Failed to import product_cat Accessories
+[ERROR] Failed to import "woocommerce-placeholder" (Media)
+[WARNING] Failed to import "Header Default": Invalid post type apus_header
+[ERROR] Failed to import "breadcrumb-bkg" (Media)
+
+
+------
+New AJAX call!
+[WARNING] Failed to import course_category 2D
+[WARNING] Failed to import simple_event_tags 3d max
+[WARNING] Failed to import product_tag Adobe Illustrator
+[WARNING] Failed to import course_tag Adobe Illustrator
+[WARNING] Failed to import course_category Ads &amp; Analytics
+[WARNING] Failed to import course_tag After Effects
+[WARNING] Failed to import course_category Animation
+[WARNING] Failed to import simple_event_tags animation
+[WARNING] Failed to import course_category Asset Store
+[WARNING] Failed to import course_category Audio
+[WARNING] Failed to import product_tag Beginner
+[WARNING] Failed to import simple_event_tags Beginner
+[WARNING] Failed to import course_tag Beginner
+[WARNING] Failed to import course_category Best Practices
+[WARNING] Failed to import pa_color Blue
+[WARNING] Failed to import product_cat Business
+[WARNING] Failed to import product_tag Business
+[WARNING] Failed to import product_cat Clothing
+[WARNING] Failed to import course_category Cloud Build
+[WARNING] Failed to import course_tag CorelDRAW
+[WARNING] Failed to import product_cat Decor
+[WARNING] Failed to import course_category Developer Advice
+[WARNING] Failed to import product_cat Engineering
+[WARNING] Failed to import product_visibility exclude-from-catalog
+[WARNING] Failed to import product_visibility exclude-from-search
+[WARNING] Failed to import simple_event_category Expired
+[WARNING] Failed to import product_type external
+[WARNING] Failed to import product_visibility featured
+[WARNING] Failed to import course_category Game Performance Reporting
+[WARNING] Failed to import product_tag Graphic Design
+[WARNING] Failed to import course_tag Graphic Design
+[WARNING] Failed to import course_category Graphics
+[WARNING] Failed to import pa_color Gray
+[WARNING] Failed to import pa_color Green
+[WARNING] Failed to import product_type grouped
+[WARNING] Failed to import simple_event_category Happening
+[WARNING] Failed to import product_cat Hoodies
+[WARNING] Failed to import course_tag InDesign
+[WARNING] Failed to import pa_size Large
+[WARNING] Failed to import pa_size Medium
+[WARNING] Failed to import product_cat Music
+[WARNING] Failed to import product_visibility outofstock
+[WARNING] Failed to import simple_event_tags Pattern
+[WARNING] Failed to import product_tag Photoshop
+[WARNING] Failed to import simple_event_tags Photoshop
+[WARNING] Failed to import course_tag Photoshop
+[WARNING] Failed to import product_visibility rated-1
+[WARNING] Failed to import product_visibility rated-2
+[WARNING] Failed to import product_visibility rated-3
+[WARNING] Failed to import product_visibility rated-4
+[WARNING] Failed to import product_visibility rated-5
+[WARNING] Failed to import pa_color Red
+[WARNING] Failed to import product_type simple
+[WARNING] Failed to import product_tag Sketch
+[WARNING] Failed to import simple_event_tags Sketch
+[WARNING] Failed to import course_tag Sketch
+[WARNING] Failed to import pa_size Small
+[WARNING] Failed to import product_cat Teaching and Education
+[WARNING] Failed to import product_cat Tshirts
+[WARNING] Failed to import product_cat Uncategorized
+[WARNING] Failed to import simple_event_category Upcoming
+[WARNING] Failed to import simple_event_tags UX/UI
+[WARNING] Failed to import course_tag UX/UI
+[WARNING] Failed to import product_type variable
+[WARNING] Failed to import simple_event_tags Vector
+[WARNING] Failed to import pa_color Yellow
+[WARNING] Failed to import product_cat Accessories
+[ERROR] Failed to import "woocommerce-placeholder" (Media)
+[WARNING] Failed to import "Header Default": Invalid post type apus_header
+[ERROR] Failed to import "breadcrumb-bkg" (Media)
+
+
+------
+New AJAX call!
+[WARNING] Failed to import course_category 2D
+[WARNING] Failed to import simple_event_tags 3d max
+[WARNING] Failed to import product_tag Adobe Illustrator
+[WARNING] Failed to import course_tag Adobe Illustrator
+[WARNING] Failed to import course_category Ads &amp; Analytics
+[WARNING] Failed to import course_tag After Effects
+[WARNING] Failed to import course_category Animation
+[WARNING] Failed to import simple_event_tags animation
+[WARNING] Failed to import course_category Asset Store
+[WARNING] Failed to import course_category Audio
+[WARNING] Failed to import product_tag Beginner
+[WARNING] Failed to import simple_event_tags Beginner
+[WARNING] Failed to import course_tag Beginner
+[WARNING] Failed to import course_category Best Practices
+[WARNING] Failed to import pa_color Blue
+[WARNING] Failed to import product_cat Business
+[WARNING] Failed to import product_tag Business
+[WARNING] Failed to import product_cat Clothing
+[WARNING] Failed to import course_category Cloud Build
+[WARNING] Failed to import course_tag CorelDRAW
+[WARNING] Failed to import product_cat Decor
+[WARNING] Failed to import course_category Developer Advice
+[WARNING] Failed to import product_cat Engineering
+[WARNING] Failed to import product_visibility exclude-from-catalog
+[WARNING] Failed to import product_visibility exclude-from-search
+[WARNING] Failed to import simple_event_category Expired
+[WARNING] Failed to import product_type external
+[WARNING] Failed to import product_visibility featured
+[WARNING] Failed to import course_category Game Performance Reporting
+[WARNING] Failed to import product_tag Graphic Design
+[WARNING] Failed to import course_tag Graphic Design
+[WARNING] Failed to import course_category Graphics
+[WARNING] Failed to import pa_color Gray
+[WARNING] Failed to import pa_color Green
+[WARNING] Failed to import product_type grouped
+[WARNING] Failed to import simple_event_category Happening
+[WARNING] Failed to import product_cat Hoodies
+[WARNING] Failed to import course_tag InDesign
+[WARNING] Failed to import pa_size Large
+[WARNING] Failed to import pa_size Medium
+[WARNING] Failed to import product_cat Music
+[WARNING] Failed to import product_visibility outofstock
+[WARNING] Failed to import simple_event_tags Pattern
+[WARNING] Failed to import product_tag Photoshop
+[WARNING] Failed to import simple_event_tags Photoshop
+[WARNING] Failed to import course_tag Photoshop
+[WARNING] Failed to import product_visibility rated-1
+[WARNING] Failed to import product_visibility rated-2
+[WARNING] Failed to import product_visibility rated-3
+[WARNING] Failed to import product_visibility rated-4
+[WARNING] Failed to import product_visibility rated-5
+[WARNING] Failed to import pa_color Red
+[WARNING] Failed to import product_type simple
+[WARNING] Failed to import product_tag Sketch
+[WARNING] Failed to import simple_event_tags Sketch
+[WARNING] Failed to import course_tag Sketch
+[WARNING] Failed to import pa_size Small
+[WARNING] Failed to import product_cat Teaching and Education
+[WARNING] Failed to import product_cat Tshirts
+[WARNING] Failed to import product_cat Uncategorized
+[WARNING] Failed to import simple_event_category Upcoming
+[WARNING] Failed to import simple_event_tags UX/UI
+[WARNING] Failed to import course_tag UX/UI
+[WARNING] Failed to import product_type variable
+[WARNING] Failed to import simple_event_tags Vector
+[WARNING] Failed to import pa_color Yellow
+[WARNING] Failed to import product_cat Accessories
+[ERROR] Failed to import "woocommerce-placeholder" (Media)
+[WARNING] Failed to import "Header Default": Invalid post type apus_header
+[ERROR] Failed to import "breadcrumb-bkg" (Media)
+
+
+------
+New AJAX call!
+[WARNING] Failed to import course_category 2D
+[WARNING] Failed to import simple_event_tags 3d max
+[WARNING] Failed to import product_tag Adobe Illustrator
+[WARNING] Failed to import course_tag Adobe Illustrator
+[WARNING] Failed to import course_category Ads &amp; Analytics
+[WARNING] Failed to import course_tag After Effects
+[WARNING] Failed to import course_category Animation
+[WARNING] Failed to import simple_event_tags animation
+[WARNING] Failed to import course_category Asset Store
+[WARNING] Failed to import course_category Audio
+[WARNING] Failed to import product_tag Beginner
+[WARNING] Failed to import simple_event_tags Beginner
+[WARNING] Failed to import course_tag Beginner
+[WARNING] Failed to import course_category Best Practices
+[WARNING] Failed to import pa_color Blue
+[WARNING] Failed to import product_cat Business
+[WARNING] Failed to import product_tag Business
+[WARNING] Failed to import product_cat Clothing
+[WARNING] Failed to import course_category Cloud Build
+[WARNING] Failed to import course_tag CorelDRAW
+[WARNING] Failed to import product_cat Decor
+[WARNING] Failed to import course_category Developer Advice
+[WARNING] Failed to import product_cat Engineering
+[WARNING] Failed to import product_visibility exclude-from-catalog
+[WARNING] Failed to import product_visibility exclude-from-search
+[WARNING] Failed to import simple_event_category Expired
+[WARNING] Failed to import product_type external
+[WARNING] Failed to import product_visibility featured
+[WARNING] Failed to import course_category Game Performance Reporting
+[WARNING] Failed to import product_tag Graphic Design
+[WARNING] Failed to import course_tag Graphic Design
+[WARNING] Failed to import course_category Graphics
+[WARNING] Failed to import pa_color Gray
+[WARNING] Failed to import pa_color Green
+[WARNING] Failed to import product_type grouped
+[WARNING] Failed to import simple_event_category Happening
+[WARNING] Failed to import product_cat Hoodies
+[WARNING] Failed to import course_tag InDesign
+[WARNING] Failed to import pa_size Large
+[WARNING] Failed to import pa_size Medium
+[WARNING] Failed to import product_cat Music
+[WARNING] Failed to import product_visibility outofstock
+[WARNING] Failed to import simple_event_tags Pattern
+[WARNING] Failed to import product_tag Photoshop
+[WARNING] Failed to import simple_event_tags Photoshop
+[WARNING] Failed to import course_tag Photoshop
+[WARNING] Failed to import product_visibility rated-1
+[WARNING] Failed to import product_visibility rated-2
+[WARNING] Failed to import product_visibility rated-3
+[WARNING] Failed to import product_visibility rated-4
+[WARNING] Failed to import product_visibility rated-5
+[WARNING] Failed to import pa_color Red
+[WARNING] Failed to import product_type simple
+[WARNING] Failed to import product_tag Sketch
+[WARNING] Failed to import simple_event_tags Sketch
+[WARNING] Failed to import course_tag Sketch
+[WARNING] Failed to import pa_size Small
+[WARNING] Failed to import product_cat Teaching and Education
+[WARNING] Failed to import product_cat Tshirts
+[WARNING] Failed to import product_cat Uncategorized
+[WARNING] Failed to import simple_event_category Upcoming
+[WARNING] Failed to import simple_event_tags UX/UI
+[WARNING] Failed to import course_tag UX/UI
+[WARNING] Failed to import product_type variable
+[WARNING] Failed to import simple_event_tags Vector
+[WARNING] Failed to import pa_color Yellow
+[WARNING] Failed to import product_cat Accessories
+[ERROR] Failed to import "woocommerce-placeholder" (Media)
+[WARNING] Failed to import "Header Default": Invalid post type apus_header
+[ERROR] Failed to import "breadcrumb-bkg" (Media)
+
+
+------
+New AJAX call!
+[WARNING] Failed to import course_category 2D
+[WARNING] Failed to import simple_event_tags 3d max
+[WARNING] Failed to import product_tag Adobe Illustrator
+[WARNING] Failed to import course_tag Adobe Illustrator
+[WARNING] Failed to import course_category Ads &amp; Analytics
+[WARNING] Failed to import course_tag After Effects
+[WARNING] Failed to import course_category Animation
+[WARNING] Failed to import simple_event_tags animation
+[WARNING] Failed to import course_category Asset Store
+[WARNING] Failed to import course_category Audio
+[WARNING] Failed to import product_tag Beginner
+[WARNING] Failed to import simple_event_tags Beginner
+[WARNING] Failed to import course_tag Beginner
+[WARNING] Failed to import course_category Best Practices
+[WARNING] Failed to import pa_color Blue
+[WARNING] Failed to import product_cat Business
+[WARNING] Failed to import product_tag Business
+[WARNING] Failed to import product_cat Clothing
+[WARNING] Failed to import course_category Cloud Build
+[WARNING] Failed to import course_tag CorelDRAW
+[WARNING] Failed to import product_cat Decor
+[WARNING] Failed to import course_category Developer Advice
+[WARNING] Failed to import product_cat Engineering
+[WARNING] Failed to import product_visibility exclude-from-catalog
+[WARNING] Failed to import product_visibility exclude-from-search
+[WARNING] Failed to import simple_event_category Expired
+[WARNING] Failed to import product_type external
+[WARNING] Failed to import product_visibility featured
+[WARNING] Failed to import course_category Game Performance Reporting
+[WARNING] Failed to import product_tag Graphic Design
+[WARNING] Failed to import course_tag Graphic Design
+[WARNING] Failed to import course_category Graphics
+[WARNING] Failed to import pa_color Gray
+[WARNING] Failed to import pa_color Green
+[WARNING] Failed to import product_type grouped
+[WARNING] Failed to import simple_event_category Happening
+[WARNING] Failed to import product_cat Hoodies
+[WARNING] Failed to import course_tag InDesign
+[WARNING] Failed to import pa_size Large
+[WARNING] Failed to import pa_size Medium
+[WARNING] Failed to import product_cat Music
+[WARNING] Failed to import product_visibility outofstock
+[WARNING] Failed to import simple_event_tags Pattern
+[WARNING] Failed to import product_tag Photoshop
+[WARNING] Failed to import simple_event_tags Photoshop
+[WARNING] Failed to import course_tag Photoshop
+[WARNING] Failed to import product_visibility rated-1
+[WARNING] Failed to import product_visibility rated-2
+[WARNING] Failed to import product_visibility rated-3
+[WARNING] Failed to import product_visibility rated-4
+[WARNING] Failed to import product_visibility rated-5
+[WARNING] Failed to import pa_color Red
+[WARNING] Failed to import product_type simple
+[WARNING] Failed to import product_tag Sketch
+[WARNING] Failed to import simple_event_tags Sketch
+[WARNING] Failed to import course_tag Sketch
+[WARNING] Failed to import pa_size Small
+[WARNING] Failed to import product_cat Teaching and Education
+[WARNING] Failed to import product_cat Tshirts
+[WARNING] Failed to import product_cat Uncategorized
+[WARNING] Failed to import simple_event_category Upcoming
+[WARNING] Failed to import simple_event_tags UX/UI
+[WARNING] Failed to import course_tag UX/UI
+[WARNING] Failed to import product_type variable
+[WARNING] Failed to import simple_event_tags Vector
+[WARNING] Failed to import pa_color Yellow
+[WARNING] Failed to import product_cat Accessories
+[ERROR] Failed to import "woocommerce-placeholder" (Media)
+[WARNING] Failed to import "Header Default": Invalid post type apus_header
+[ERROR] Failed to import "breadcrumb-bkg" (Media)
+
+
+------
+New AJAX call!
+[WARNING] Failed to import course_category 2D
+[WARNING] Failed to import simple_event_tags 3d max
+[WARNING] Failed to import product_tag Adobe Illustrator
+[WARNING] Failed to import course_tag Adobe Illustrator
+[WARNING] Failed to import course_category Ads &amp; Analytics
+[WARNING] Failed to import course_tag After Effects
+[WARNING] Failed to import course_category Animation
+[WARNING] Failed to import simple_event_tags animation
+[WARNING] Failed to import course_category Asset Store
+[WARNING] Failed to import course_category Audio
+[WARNING] Failed to import product_tag Beginner
+[WARNING] Failed to import simple_event_tags Beginner
+[WARNING] Failed to import course_tag Beginner
+[WARNING] Failed to import course_category Best Practices
+[WARNING] Failed to import pa_color Blue
+[WARNING] Failed to import product_cat Business
+[WARNING] Failed to import product_tag Business
+[WARNING] Failed to import product_cat Clothing
+[WARNING] Failed to import course_category Cloud Build
+[WARNING] Failed to import course_tag CorelDRAW
+[WARNING] Failed to import product_cat Decor
+[WARNING] Failed to import course_category Developer Advice
+[WARNING] Failed to import product_cat Engineering
+[WARNING] Failed to import product_visibility exclude-from-catalog
+[WARNING] Failed to import product_visibility exclude-from-search
+[WARNING] Failed to import simple_event_category Expired
+[WARNING] Failed to import product_type external
+[WARNING] Failed to import product_visibility featured
+[WARNING] Failed to import course_category Game Performance Reporting
+[WARNING] Failed to import product_tag Graphic Design
+[WARNING] Failed to import course_tag Graphic Design
+[WARNING] Failed to import course_category Graphics
+[WARNING] Failed to import pa_color Gray
+[WARNING] Failed to import pa_color Green
+[WARNING] Failed to import product_type grouped
+[WARNING] Failed to import simple_event_category Happening
+[WARNING] Failed to import product_cat Hoodies
+[WARNING] Failed to import course_tag InDesign
+[WARNING] Failed to import pa_size Large
+[WARNING] Failed to import pa_size Medium
+[WARNING] Failed to import product_cat Music
+[WARNING] Failed to import product_visibility outofstock
+[WARNING] Failed to import simple_event_tags Pattern
+[WARNING] Failed to import product_tag Photoshop
+[WARNING] Failed to import simple_event_tags Photoshop
+[WARNING] Failed to import course_tag Photoshop
+[WARNING] Failed to import product_visibility rated-1
+[WARNING] Failed to import product_visibility rated-2
+[WARNING] Failed to import product_visibility rated-3
+[WARNING] Failed to import product_visibility rated-4
+[WARNING] Failed to import product_visibility rated-5
+[WARNING] Failed to import pa_color Red
+[WARNING] Failed to import product_type simple
+[WARNING] Failed to import product_tag Sketch
+[WARNING] Failed to import simple_event_tags Sketch
+[WARNING] Failed to import course_tag Sketch
+[WARNING] Failed to import pa_size Small
+[WARNING] Failed to import product_cat Teaching and Education
+[WARNING] Failed to import product_cat Tshirts
+[WARNING] Failed to import product_cat Uncategorized
+[WARNING] Failed to import simple_event_category Upcoming
+[WARNING] Failed to import simple_event_tags UX/UI
+[WARNING] Failed to import course_tag UX/UI
+[WARNING] Failed to import product_type variable
+[WARNING] Failed to import simple_event_tags Vector
+[WARNING] Failed to import pa_color Yellow
+[WARNING] Failed to import product_cat Accessories
+[ERROR] Failed to import "woocommerce-placeholder" (Media)
+[WARNING] Failed to import "Header Default": Invalid post type apus_header
+[ERROR] Failed to import "breadcrumb-bkg" (Media)
+
+
+------
+New AJAX call!
+[WARNING] Failed to import course_category 2D
+[WARNING] Failed to import simple_event_tags 3d max
+[WARNING] Failed to import product_tag Adobe Illustrator
+[WARNING] Failed to import course_tag Adobe Illustrator
+[WARNING] Failed to import course_category Ads &amp; Analytics
+[WARNING] Failed to import course_tag After Effects
+[WARNING] Failed to import course_category Animation
+[WARNING] Failed to import simple_event_tags animation
+[WARNING] Failed to import course_category Asset Store
+[WARNING] Failed to import course_category Audio
+[WARNING] Failed to import product_tag Beginner
+[WARNING] Failed to import simple_event_tags Beginner
+[WARNING] Failed to import course_tag Beginner
+[WARNING] Failed to import course_category Best Practices
+[WARNING] Failed to import pa_color Blue
+[WARNING] Failed to import product_cat Business
+[WARNING] Failed to import product_tag Business
+[WARNING] Failed to import product_cat Clothing
+[WARNING] Failed to import course_category Cloud Build
+[WARNING] Failed to import course_tag CorelDRAW
+[WARNING] Failed to import product_cat Decor
+[WARNING] Failed to import course_category Developer Advice
+[WARNING] Failed to import product_cat Engineering
+[WARNING] Failed to import product_visibility exclude-from-catalog
+[WARNING] Failed to import product_visibility exclude-from-search
+[WARNING] Failed to import simple_event_category Expired
+[WARNING] Failed to import product_type external
+[WARNING] Failed to import product_visibility featured
+[WARNING] Failed to import course_category Game Performance Reporting
+[WARNING] Failed to import product_tag Graphic Design
+[WARNING] Failed to import course_tag Graphic Design
+[WARNING] Failed to import course_category Graphics
+[WARNING] Failed to import pa_color Gray
+[WARNING] Failed to import pa_color Green
+[WARNING] Failed to import product_type grouped
+[WARNING] Failed to import simple_event_category Happening
+[WARNING] Failed to import product_cat Hoodies
+[WARNING] Failed to import course_tag InDesign
+[WARNING] Failed to import pa_size Large
+[WARNING] Failed to import pa_size Medium
+[WARNING] Failed to import product_cat Music
+[WARNING] Failed to import product_visibility outofstock
+[WARNING] Failed to import simple_event_tags Pattern
+[WARNING] Failed to import product_tag Photoshop
+[WARNING] Failed to import simple_event_tags Photoshop
+[WARNING] Failed to import course_tag Photoshop
+[WARNING] Failed to import product_visibility rated-1
+[WARNING] Failed to import product_visibility rated-2
+[WARNING] Failed to import product_visibility rated-3
+[WARNING] Failed to import product_visibility rated-4
+[WARNING] Failed to import product_visibility rated-5
+[WARNING] Failed to import pa_color Red
+[WARNING] Failed to import product_type simple
+[WARNING] Failed to import product_tag Sketch
+[WARNING] Failed to import simple_event_tags Sketch
+[WARNING] Failed to import course_tag Sketch
+[WARNING] Failed to import pa_size Small
+[WARNING] Failed to import product_cat Teaching and Education
+[WARNING] Failed to import product_cat Tshirts
+[WARNING] Failed to import product_cat Uncategorized
+[WARNING] Failed to import simple_event_category Upcoming
+[WARNING] Failed to import simple_event_tags UX/UI
+[WARNING] Failed to import course_tag UX/UI
+[WARNING] Failed to import product_type variable
+[WARNING] Failed to import simple_event_tags Vector
+[WARNING] Failed to import pa_color Yellow
+[WARNING] Failed to import product_cat Accessories
+[ERROR] Failed to import "woocommerce-placeholder" (Media)
+[WARNING] Failed to import "Header Default": Invalid post type apus_header
+[ERROR] Failed to import "breadcrumb-bkg" (Media)
+
+
+------
+New AJAX call!
+[WARNING] Failed to import course_category 2D
+[WARNING] Failed to import simple_event_tags 3d max
+[WARNING] Failed to import product_tag Adobe Illustrator
+[WARNING] Failed to import course_tag Adobe Illustrator
+[WARNING] Failed to import course_category Ads &amp; Analytics
+[WARNING] Failed to import course_tag After Effects
+[WARNING] Failed to import course_category Animation
+[WARNING] Failed to import simple_event_tags animation
+[WARNING] Failed to import course_category Asset Store
+[WARNING] Failed to import course_category Audio
+[WARNING] Failed to import product_tag Beginner
+[WARNING] Failed to import simple_event_tags Beginner
+[WARNING] Failed to import course_tag Beginner
+[WARNING] Failed to import course_category Best Practices
+[WARNING] Failed to import pa_color Blue
+[WARNING] Failed to import product_cat Business
+[WARNING] Failed to import product_tag Business
+[WARNING] Failed to import product_cat Clothing
+[WARNING] Failed to import course_category Cloud Build
+[WARNING] Failed to import course_tag CorelDRAW
+[WARNING] Failed to import product_cat Decor
+[WARNING] Failed to import course_category Developer Advice
+[WARNING] Failed to import product_cat Engineering
+[WARNING] Failed to import product_visibility exclude-from-catalog
+[WARNING] Failed to import product_visibility exclude-from-search
+[WARNING] Failed to import simple_event_category Expired
+[WARNING] Failed to import product_type external
+[WARNING] Failed to import product_visibility featured
+[WARNING] Failed to import course_category Game Performance Reporting
+[WARNING] Failed to import product_tag Graphic Design
+[WARNING] Failed to import course_tag Graphic Design
+[WARNING] Failed to import course_category Graphics
+[WARNING] Failed to import pa_color Gray
+[WARNING] Failed to import pa_color Green
+[WARNING] Failed to import product_type grouped
+[WARNING] Failed to import simple_event_category Happening
+[WARNING] Failed to import product_cat Hoodies
+[WARNING] Failed to import course_tag InDesign
+[WARNING] Failed to import pa_size Large
+[WARNING] Failed to import pa_size Medium
+[WARNING] Failed to import product_cat Music
+[WARNING] Failed to import product_visibility outofstock
+[WARNING] Failed to import simple_event_tags Pattern
+[WARNING] Failed to import product_tag Photoshop
+[WARNING] Failed to import simple_event_tags Photoshop
+[WARNING] Failed to import course_tag Photoshop
+[WARNING] Failed to import product_visibility rated-1
+[WARNING] Failed to import product_visibility rated-2
+[WARNING] Failed to import product_visibility rated-3
+[WARNING] Failed to import product_visibility rated-4
+[WARNING] Failed to import product_visibility rated-5
+[WARNING] Failed to import pa_color Red
+[WARNING] Failed to import product_type simple
+[WARNING] Failed to import product_tag Sketch
+[WARNING] Failed to import simple_event_tags Sketch
+[WARNING] Failed to import course_tag Sketch
+[WARNING] Failed to import pa_size Small
+[WARNING] Failed to import product_cat Teaching and Education
+[WARNING] Failed to import product_cat Tshirts
+[WARNING] Failed to import product_cat Uncategorized
+[WARNING] Failed to import simple_event_category Upcoming
+[WARNING] Failed to import simple_event_tags UX/UI
+[WARNING] Failed to import course_tag UX/UI
+[WARNING] Failed to import product_type variable
+[WARNING] Failed to import simple_event_tags Vector
+[WARNING] Failed to import pa_color Yellow
+[WARNING] Failed to import product_cat Accessories
+[ERROR] Failed to import "woocommerce-placeholder" (Media)
+[WARNING] Failed to import "Header Default": Invalid post type apus_header
+[ERROR] Failed to import "breadcrumb-bkg" (Media)
+
+
+------
+New AJAX call!
+[WARNING] Failed to import course_category 2D
+[WARNING] Failed to import simple_event_tags 3d max
+[WARNING] Failed to import product_tag Adobe Illustrator
+[WARNING] Failed to import course_tag Adobe Illustrator
+[WARNING] Failed to import course_category Ads &amp; Analytics
+[WARNING] Failed to import course_tag After Effects
+[WARNING] Failed to import course_category Animation
+[WARNING] Failed to import simple_event_tags animation
+[WARNING] Failed to import course_category Asset Store
+[WARNING] Failed to import course_category Audio
+[WARNING] Failed to import product_tag Beginner
+[WARNING] Failed to import simple_event_tags Beginner
+[WARNING] Failed to import course_tag Beginner
+[WARNING] Failed to import course_category Best Practices
+[WARNING] Failed to import pa_color Blue
+[WARNING] Failed to import product_cat Business
+[WARNING] Failed to import product_tag Business
+[WARNING] Failed to import product_cat Clothing
+[WARNING] Failed to import course_category Cloud Build
+[WARNING] Failed to import course_tag CorelDRAW
+[WARNING] Failed to import product_cat Decor
+[WARNING] Failed to import course_category Developer Advice
+[WARNING] Failed to import product_cat Engineering
+[WARNING] Failed to import product_visibility exclude-from-catalog
+[WARNING] Failed to import product_visibility exclude-from-search
+[WARNING] Failed to import simple_event_category Expired
+[WARNING] Failed to import product_type external
+[WARNING] Failed to import product_visibility featured
+[WARNING] Failed to import course_category Game Performance Reporting
+[WARNING] Failed to import product_tag Graphic Design
+[WARNING] Failed to import course_tag Graphic Design
+[WARNING] Failed to import course_category Graphics
+[WARNING] Failed to import pa_color Gray
+[WARNING] Failed to import pa_color Green
+[WARNING] Failed to import product_type grouped
+[WARNING] Failed to import simple_event_category Happening
+[WARNING] Failed to import product_cat Hoodies
+[WARNING] Failed to import course_tag InDesign
+[WARNING] Failed to import pa_size Large
+[WARNING] Failed to import pa_size Medium
+[WARNING] Failed to import product_cat Music
+[WARNING] Failed to import product_visibility outofstock
+[WARNING] Failed to import simple_event_tags Pattern
+[WARNING] Failed to import product_tag Photoshop
+[WARNING] Failed to import simple_event_tags Photoshop
+[WARNING] Failed to import course_tag Photoshop
+[WARNING] Failed to import product_visibility rated-1
+[WARNING] Failed to import product_visibility rated-2
+[WARNING] Failed to import product_visibility rated-3
+[WARNING] Failed to import product_visibility rated-4
+[WARNING] Failed to import product_visibility rated-5
+[WARNING] Failed to import pa_color Red
+[WARNING] Failed to import product_type simple
+[WARNING] Failed to import product_tag Sketch
+[WARNING] Failed to import simple_event_tags Sketch
+[WARNING] Failed to import course_tag Sketch
+[WARNING] Failed to import pa_size Small
+[WARNING] Failed to import product_cat Teaching and Education
+[WARNING] Failed to import product_cat Tshirts
+[WARNING] Failed to import product_cat Uncategorized
+[WARNING] Failed to import simple_event_category Upcoming
+[WARNING] Failed to import simple_event_tags UX/UI
+[WARNING] Failed to import course_tag UX/UI
+[WARNING] Failed to import product_type variable
+[WARNING] Failed to import simple_event_tags Vector
+[WARNING] Failed to import pa_color Yellow
+[WARNING] Failed to import product_cat Accessories
+[ERROR] Failed to import "woocommerce-placeholder" (Media)
+[WARNING] Failed to import "Header Default": Invalid post type apus_header
+[ERROR] Failed to import "breadcrumb-bkg" (Media)
+
+
+------
+New AJAX call!
+[WARNING] Failed to import course_category 2D
+[WARNING] Failed to import simple_event_tags 3d max
+[WARNING] Failed to import product_tag Adobe Illustrator
+[WARNING] Failed to import course_tag Adobe Illustrator
+[WARNING] Failed to import course_category Ads &amp; Analytics
+[WARNING] Failed to import course_tag After Effects
+[WARNING] Failed to import course_category Animation
+[WARNING] Failed to import simple_event_tags animation
+[WARNING] Failed to import course_category Asset Store
+[WARNING] Failed to import course_category Audio
+[WARNING] Failed to import product_tag Beginner
+[WARNING] Failed to import simple_event_tags Beginner
+[WARNING] Failed to import course_tag Beginner
+[WARNING] Failed to import course_category Best Practices
+[WARNING] Failed to import pa_color Blue
+[WARNING] Failed to import product_cat Business
+[WARNING] Failed to import product_tag Business
+[WARNING] Failed to import product_cat Clothing
+[WARNING] Failed to import course_category Cloud Build
+[WARNING] Failed to import course_tag CorelDRAW
+[WARNING] Failed to import product_cat Decor
+[WARNING] Failed to import course_category Developer Advice
+[WARNING] Failed to import product_cat Engineering
+[WARNING] Failed to import product_visibility exclude-from-catalog
+[WARNING] Failed to import product_visibility exclude-from-search
+[WARNING] Failed to import simple_event_category Expired
+[WARNING] Failed to import product_type external
+[WARNING] Failed to import product_visibility featured
+[WARNING] Failed to import course_category Game Performance Reporting
+[WARNING] Failed to import product_tag Graphic Design
+[WARNING] Failed to import course_tag Graphic Design
+[WARNING] Failed to import course_category Graphics
+[WARNING] Failed to import pa_color Gray
+[WARNING] Failed to import pa_color Green
+[WARNING] Failed to import product_type grouped
+[WARNING] Failed to import simple_event_category Happening
+[WARNING] Failed to import product_cat Hoodies
+[WARNING] Failed to import course_tag InDesign
+[WARNING] Failed to import pa_size Large
+[WARNING] Failed to import pa_size Medium
+[WARNING] Failed to import product_cat Music
+[WARNING] Failed to import product_visibility outofstock
+[WARNING] Failed to import simple_event_tags Pattern
+[WARNING] Failed to import product_tag Photoshop
+[WARNING] Failed to import simple_event_tags Photoshop
+[WARNING] Failed to import course_tag Photoshop
+[WARNING] Failed to import product_visibility rated-1
+[WARNING] Failed to import product_visibility rated-2
+[WARNING] Failed to import product_visibility rated-3
+[WARNING] Failed to import product_visibility rated-4
+[WARNING] Failed to import product_visibility rated-5
+[WARNING] Failed to import pa_color Red
+[WARNING] Failed to import product_type simple
+[WARNING] Failed to import product_tag Sketch
+[WARNING] Failed to import simple_event_tags Sketch
+[WARNING] Failed to import course_tag Sketch
+[WARNING] Failed to import pa_size Small
+[WARNING] Failed to import product_cat Teaching and Education
+[WARNING] Failed to import product_cat Tshirts
+[WARNING] Failed to import product_cat Uncategorized
+[WARNING] Failed to import simple_event_category Upcoming
+[WARNING] Failed to import simple_event_tags UX/UI
+[WARNING] Failed to import course_tag UX/UI
+[WARNING] Failed to import product_type variable
+[WARNING] Failed to import simple_event_tags Vector
+[WARNING] Failed to import pa_color Yellow
+[WARNING] Failed to import product_cat Accessories
+[ERROR] Failed to import "woocommerce-placeholder" (Media)
+[WARNING] Failed to import "Header Default": Invalid post type apus_header
+[ERROR] Failed to import "breadcrumb-bkg" (Media)
+
+
+------
+New AJAX call!
+[WARNING] Failed to import course_category 2D
+[WARNING] Failed to import simple_event_tags 3d max
+[WARNING] Failed to import product_tag Adobe Illustrator
+[WARNING] Failed to import course_tag Adobe Illustrator
+[WARNING] Failed to import course_category Ads &amp; Analytics
+[WARNING] Failed to import course_tag After Effects
+[WARNING] Failed to import course_category Animation
+[WARNING] Failed to import simple_event_tags animation
+[WARNING] Failed to import course_category Asset Store
+[WARNING] Failed to import course_category Audio
+[WARNING] Failed to import product_tag Beginner
+[WARNING] Failed to import simple_event_tags Beginner
+[WARNING] Failed to import course_tag Beginner
+[WARNING] Failed to import course_category Best Practices
+[WARNING] Failed to import pa_color Blue
+[WARNING] Failed to import product_cat Business
+[WARNING] Failed to import product_tag Business
+[WARNING] Failed to import product_cat Clothing
+[WARNING] Failed to import course_category Cloud Build
+[WARNING] Failed to import course_tag CorelDRAW
+[WARNING] Failed to import product_cat Decor
+[WARNING] Failed to import course_category Developer Advice
+[WARNING] Failed to import product_cat Engineering
+[WARNING] Failed to import product_visibility exclude-from-catalog
+[WARNING] Failed to import product_visibility exclude-from-search
+[WARNING] Failed to import simple_event_category Expired
+[WARNING] Failed to import product_type external
+[WARNING] Failed to import product_visibility featured
+[WARNING] Failed to import course_category Game Performance Reporting
+[WARNING] Failed to import product_tag Graphic Design
+[WARNING] Failed to import course_tag Graphic Design
+[WARNING] Failed to import course_category Graphics
+[WARNING] Failed to import pa_color Gray
+[WARNING] Failed to import pa_color Green
+[WARNING] Failed to import product_type grouped
+[WARNING] Failed to import simple_event_category Happening
+[WARNING] Failed to import product_cat Hoodies
+[WARNING] Failed to import course_tag InDesign
+[WARNING] Failed to import pa_size Large
+[WARNING] Failed to import pa_size Medium
+[WARNING] Failed to import product_cat Music
+[WARNING] Failed to import product_visibility outofstock
+[WARNING] Failed to import simple_event_tags Pattern
+[WARNING] Failed to import product_tag Photoshop
+[WARNING] Failed to import simple_event_tags Photoshop
+[WARNING] Failed to import course_tag Photoshop
+[WARNING] Failed to import product_visibility rated-1
+[WARNING] Failed to import product_visibility rated-2
+[WARNING] Failed to import product_visibility rated-3
+[WARNING] Failed to import product_visibility rated-4
+[WARNING] Failed to import product_visibility rated-5
+[WARNING] Failed to import pa_color Red
+[WARNING] Failed to import product_type simple
+[WARNING] Failed to import product_tag Sketch
+[WARNING] Failed to import simple_event_tags Sketch
+[WARNING] Failed to import course_tag Sketch
+[WARNING] Failed to import pa_size Small
+[WARNING] Failed to import product_cat Teaching and Education
+[WARNING] Failed to import product_cat Tshirts
+[WARNING] Failed to import product_cat Uncategorized
+[WARNING] Failed to import simple_event_category Upcoming
+[WARNING] Failed to import simple_event_tags UX/UI
+[WARNING] Failed to import course_tag UX/UI
+[WARNING] Failed to import product_type variable
+[WARNING] Failed to import simple_event_tags Vector
+[WARNING] Failed to import pa_color Yellow
+[WARNING] Failed to import product_cat Accessories
+[ERROR] Failed to import "woocommerce-placeholder" (Media)
+[WARNING] Failed to import "Header Default": Invalid post type apus_header
+[ERROR] Failed to import "breadcrumb-bkg" (Media)
+
+
+------
+New AJAX call!
+[WARNING] Failed to import course_category 2D
+[WARNING] Failed to import simple_event_tags 3d max
+[WARNING] Failed to import product_tag Adobe Illustrator
+[WARNING] Failed to import course_tag Adobe Illustrator
+[WARNING] Failed to import course_category Ads &amp; Analytics
+[WARNING] Failed to import course_tag After Effects
+[WARNING] Failed to import course_category Animation
+[WARNING] Failed to import simple_event_tags animation
+[WARNING] Failed to import course_category Asset Store
+[WARNING] Failed to import course_category Audio
+[WARNING] Failed to import product_tag Beginner
+[WARNING] Failed to import simple_event_tags Beginner
+[WARNING] Failed to import course_tag Beginner
+[WARNING] Failed to import course_category Best Practices
+[WARNING] Failed to import pa_color Blue
+[WARNING] Failed to import product_cat Business
+[WARNING] Failed to import product_tag Business
+[WARNING] Failed to import product_cat Clothing
+[WARNING] Failed to import course_category Cloud Build
+[WARNING] Failed to import course_tag CorelDRAW
+[WARNING] Failed to import product_cat Decor
+[WARNING] Failed to import course_category Developer Advice
+[WARNING] Failed to import product_cat Engineering
+[WARNING] Failed to import product_visibility exclude-from-catalog
+[WARNING] Failed to import product_visibility exclude-from-search
+[WARNING] Failed to import simple_event_category Expired
+[WARNING] Failed to import product_type external
+[WARNING] Failed to import product_visibility featured
+[WARNING] Failed to import course_category Game Performance Reporting
+[WARNING] Failed to import product_tag Graphic Design
+[WARNING] Failed to import course_tag Graphic Design
+[WARNING] Failed to import course_category Graphics
+[WARNING] Failed to import pa_color Gray
+[WARNING] Failed to import pa_color Green
+[WARNING] Failed to import product_type grouped
+[WARNING] Failed to import simple_event_category Happening
+[WARNING] Failed to import product_cat Hoodies
+[WARNING] Failed to import course_tag InDesign
+[WARNING] Failed to import pa_size Large
+[WARNING] Failed to import pa_size Medium
+[WARNING] Failed to import product_cat Music
+[WARNING] Failed to import product_visibility outofstock
+[WARNING] Failed to import simple_event_tags Pattern
+[WARNING] Failed to import product_tag Photoshop
+[WARNING] Failed to import simple_event_tags Photoshop
+[WARNING] Failed to import course_tag Photoshop
+[WARNING] Failed to import product_visibility rated-1
+[WARNING] Failed to import product_visibility rated-2
+[WARNING] Failed to import product_visibility rated-3
+[WARNING] Failed to import product_visibility rated-4
+[WARNING] Failed to import product_visibility rated-5
+[WARNING] Failed to import pa_color Red
+[WARNING] Failed to import product_type simple
+[WARNING] Failed to import product_tag Sketch
+[WARNING] Failed to import simple_event_tags Sketch
+[WARNING] Failed to import course_tag Sketch
+[WARNING] Failed to import pa_size Small
+[WARNING] Failed to import product_cat Teaching and Education
+[WARNING] Failed to import product_cat Tshirts
+[WARNING] Failed to import product_cat Uncategorized
+[WARNING] Failed to import simple_event_category Upcoming
+[WARNING] Failed to import simple_event_tags UX/UI
+[WARNING] Failed to import course_tag UX/UI
+[WARNING] Failed to import product_type variable
+[WARNING] Failed to import simple_event_tags Vector
+[WARNING] Failed to import pa_color Yellow
+[WARNING] Failed to import product_cat Accessories
+[ERROR] Failed to import "woocommerce-placeholder" (Media)
+[WARNING] Failed to import "Header Default": Invalid post type apus_header
+[ERROR] Failed to import "breadcrumb-bkg" (Media)
+
+
+------
+New AJAX call!
+[WARNING] Failed to import course_category 2D
+[WARNING] Failed to import simple_event_tags 3d max
+[WARNING] Failed to import product_tag Adobe Illustrator
+[WARNING] Failed to import course_tag Adobe Illustrator
+[WARNING] Failed to import course_category Ads &amp; Analytics
+[WARNING] Failed to import course_tag After Effects
+[WARNING] Failed to import course_category Animation
+[WARNING] Failed to import simple_event_tags animation
+[WARNING] Failed to import course_category Asset Store
+[WARNING] Failed to import course_category Audio
+[WARNING] Failed to import product_tag Beginner
+[WARNING] Failed to import simple_event_tags Beginner
+[WARNING] Failed to import course_tag Beginner
+[WARNING] Failed to import course_category Best Practices
+[WARNING] Failed to import pa_color Blue
+[WARNING] Failed to import product_cat Business
+[WARNING] Failed to import product_tag Business
+[WARNING] Failed to import product_cat Clothing
+[WARNING] Failed to import course_category Cloud Build
+[WARNING] Failed to import course_tag CorelDRAW
+[WARNING] Failed to import product_cat Decor
+[WARNING] Failed to import course_category Developer Advice
+[WARNING] Failed to import product_cat Engineering
+[WARNING] Failed to import product_visibility exclude-from-catalog
+[WARNING] Failed to import product_visibility exclude-from-search
+[WARNING] Failed to import simple_event_category Expired
+[WARNING] Failed to import product_type external
+[WARNING] Failed to import product_visibility featured
+[WARNING] Failed to import course_category Game Performance Reporting
+[WARNING] Failed to import product_tag Graphic Design
+[WARNING] Failed to import course_tag Graphic Design
+[WARNING] Failed to import course_category Graphics
+[WARNING] Failed to import pa_color Gray
+[WARNING] Failed to import pa_color Green
+[WARNING] Failed to import product_type grouped
+[WARNING] Failed to import simple_event_category Happening
+[WARNING] Failed to import product_cat Hoodies
+[WARNING] Failed to import course_tag InDesign
+[WARNING] Failed to import pa_size Large
+[WARNING] Failed to import pa_size Medium
+[WARNING] Failed to import product_cat Music
+[WARNING] Failed to import product_visibility outofstock
+[WARNING] Failed to import simple_event_tags Pattern
+[WARNING] Failed to import product_tag Photoshop
+[WARNING] Failed to import simple_event_tags Photoshop
+[WARNING] Failed to import course_tag Photoshop
+[WARNING] Failed to import product_visibility rated-1
+[WARNING] Failed to import product_visibility rated-2
+[WARNING] Failed to import product_visibility rated-3
+[WARNING] Failed to import product_visibility rated-4
+[WARNING] Failed to import product_visibility rated-5
+[WARNING] Failed to import pa_color Red
+[WARNING] Failed to import product_type simple
+[WARNING] Failed to import product_tag Sketch
+[WARNING] Failed to import simple_event_tags Sketch
+[WARNING] Failed to import course_tag Sketch
+[WARNING] Failed to import pa_size Small
+[WARNING] Failed to import product_cat Teaching and Education
+[WARNING] Failed to import product_cat Tshirts
+[WARNING] Failed to import product_cat Uncategorized
+[WARNING] Failed to import simple_event_category Upcoming
+[WARNING] Failed to import simple_event_tags UX/UI
+[WARNING] Failed to import course_tag UX/UI
+[WARNING] Failed to import product_type variable
+[WARNING] Failed to import simple_event_tags Vector
+[WARNING] Failed to import pa_color Yellow
+[WARNING] Failed to import product_cat Accessories
+[ERROR] Failed to import "woocommerce-placeholder" (Media)
+
+
+------
+New AJAX call!
+[WARNING] Failed to import course_category 2D
+[WARNING] Failed to import simple_event_tags 3d max
+[WARNING] Failed to import product_tag Adobe Illustrator
+[WARNING] Failed to import course_tag Adobe Illustrator
+[WARNING] Failed to import course_category Ads &amp; Analytics
+[WARNING] Failed to import course_tag After Effects
+[WARNING] Failed to import course_category Animation
+[WARNING] Failed to import simple_event_tags animation
+[WARNING] Failed to import course_category Asset Store
+[WARNING] Failed to import course_category Audio
+[WARNING] Failed to import product_tag Beginner
+[WARNING] Failed to import simple_event_tags Beginner
+[WARNING] Failed to import course_tag Beginner
+[WARNING] Failed to import course_category Best Practices
+[WARNING] Failed to import pa_color Blue
+[WARNING] Failed to import product_cat Business
+[WARNING] Failed to import product_tag Business
+[WARNING] Failed to import product_cat Clothing
+[WARNING] Failed to import course_category Cloud Build
+[WARNING] Failed to import course_tag CorelDRAW
+[WARNING] Failed to import product_cat Decor
+[WARNING] Failed to import course_category Developer Advice
+[WARNING] Failed to import product_cat Engineering
+[WARNING] Failed to import product_visibility exclude-from-catalog
+[WARNING] Failed to import product_visibility exclude-from-search
+[WARNING] Failed to import simple_event_category Expired
+[WARNING] Failed to import product_type external
+[WARNING] Failed to import product_visibility featured
+[WARNING] Failed to import course_category Game Performance Reporting
+[WARNING] Failed to import product_tag Graphic Design
+[WARNING] Failed to import course_tag Graphic Design
+[WARNING] Failed to import course_category Graphics
+[WARNING] Failed to import pa_color Gray
+[WARNING] Failed to import pa_color Green
+[WARNING] Failed to import product_type grouped
+[WARNING] Failed to import simple_event_category Happening
+[WARNING] Failed to import product_cat Hoodies
+[WARNING] Failed to import course_tag InDesign
+[WARNING] Failed to import pa_size Large
+[WARNING] Failed to import pa_size Medium
+[WARNING] Failed to import product_cat Music
+[WARNING] Failed to import product_visibility outofstock
+[WARNING] Failed to import simple_event_tags Pattern
+[WARNING] Failed to import product_tag Photoshop
+[WARNING] Failed to import simple_event_tags Photoshop
+[WARNING] Failed to import course_tag Photoshop
+[WARNING] Failed to import product_visibility rated-1
+[WARNING] Failed to import product_visibility rated-2
+[WARNING] Failed to import product_visibility rated-3
+[WARNING] Failed to import product_visibility rated-4
+[WARNING] Failed to import product_visibility rated-5
+[WARNING] Failed to import pa_color Red
+[WARNING] Failed to import product_type simple
+[WARNING] Failed to import product_tag Sketch
+[WARNING] Failed to import simple_event_tags Sketch
+[WARNING] Failed to import course_tag Sketch
+[WARNING] Failed to import pa_size Small
+[WARNING] Failed to import product_cat Teaching and Education
+[WARNING] Failed to import product_cat Tshirts
+[WARNING] Failed to import product_cat Uncategorized
+[WARNING] Failed to import simple_event_category Upcoming
+[WARNING] Failed to import simple_event_tags UX/UI
+[WARNING] Failed to import course_tag UX/UI
+[WARNING] Failed to import product_type variable
+[WARNING] Failed to import simple_event_tags Vector
+[WARNING] Failed to import pa_color Yellow
+[WARNING] Failed to import product_cat Accessories
+[ERROR] Failed to import "woocommerce-placeholder" (Media)
+[WARNING] Failed to import "Header Default": Invalid post type apus_header
+[ERROR] Failed to import "breadcrumb-bkg" (Media)
+
+
+------
+New AJAX call!
+[WARNING] Failed to import course_category 2D
+[WARNING] Failed to import simple_event_tags 3d max
+[WARNING] Failed to import product_tag Adobe Illustrator
+[WARNING] Failed to import course_tag Adobe Illustrator
+[WARNING] Failed to import course_category Ads &amp; Analytics
+[WARNING] Failed to import course_tag After Effects
+[WARNING] Failed to import course_category Animation
+[WARNING] Failed to import simple_event_tags animation
+[WARNING] Failed to import course_category Asset Store
+[WARNING] Failed to import course_category Audio
+[WARNING] Failed to import product_tag Beginner
+[WARNING] Failed to import simple_event_tags Beginner
+[WARNING] Failed to import course_tag Beginner
+[WARNING] Failed to import course_category Best Practices
+[WARNING] Failed to import pa_color Blue
+[WARNING] Failed to import product_cat Business
+[WARNING] Failed to import product_tag Business
+[WARNING] Failed to import product_cat Clothing
+[WARNING] Failed to import course_category Cloud Build
+[WARNING] Failed to import course_tag CorelDRAW
+[WARNING] Failed to import product_cat Decor
+[WARNING] Failed to import course_category Developer Advice
+[WARNING] Failed to import product_cat Engineering
+[WARNING] Failed to import product_visibility exclude-from-catalog
+[WARNING] Failed to import product_visibility exclude-from-search
+[WARNING] Failed to import simple_event_category Expired
+[WARNING] Failed to import product_type external
+[WARNING] Failed to import product_visibility featured
+[WARNING] Failed to import course_category Game Performance Reporting
+[WARNING] Failed to import product_tag Graphic Design
+[WARNING] Failed to import course_tag Graphic Design
+[WARNING] Failed to import course_category Graphics
+[WARNING] Failed to import pa_color Gray
+[WARNING] Failed to import pa_color Green
+[WARNING] Failed to import product_type grouped
+[WARNING] Failed to import simple_event_category Happening
+[WARNING] Failed to import product_cat Hoodies
+[WARNING] Failed to import course_tag InDesign
+[WARNING] Failed to import pa_size Large
+[WARNING] Failed to import pa_size Medium
+[WARNING] Failed to import product_cat Music
+[WARNING] Failed to import product_visibility outofstock
+[WARNING] Failed to import simple_event_tags Pattern
+[WARNING] Failed to import product_tag Photoshop
+[WARNING] Failed to import simple_event_tags Photoshop
+[WARNING] Failed to import course_tag Photoshop
+[WARNING] Failed to import product_visibility rated-1
+[WARNING] Failed to import product_visibility rated-2
+[WARNING] Failed to import product_visibility rated-3
+[WARNING] Failed to import product_visibility rated-4
+[WARNING] Failed to import product_visibility rated-5
+[WARNING] Failed to import pa_color Red
+[WARNING] Failed to import product_type simple
+[WARNING] Failed to import product_tag Sketch
+[WARNING] Failed to import simple_event_tags Sketch
+[WARNING] Failed to import course_tag Sketch
+[WARNING] Failed to import pa_size Small
+[WARNING] Failed to import product_cat Teaching and Education
+[WARNING] Failed to import product_cat Tshirts
+[WARNING] Failed to import product_cat Uncategorized
+[WARNING] Failed to import simple_event_category Upcoming
+[WARNING] Failed to import simple_event_tags UX/UI
+[WARNING] Failed to import course_tag UX/UI
+[WARNING] Failed to import product_type variable
+[WARNING] Failed to import simple_event_tags Vector
+[WARNING] Failed to import pa_color Yellow
+[WARNING] Failed to import product_cat Accessories
+[ERROR] Failed to import "woocommerce-placeholder" (Media)
+[WARNING] Failed to import "Header Default": Invalid post type apus_header
+[ERROR] Failed to import "breadcrumb-bkg" (Media)
+
+
+------
+New AJAX call!
+[WARNING] Failed to import course_category 2D
+[WARNING] Failed to import simple_event_tags 3d max
+[WARNING] Failed to import product_tag Adobe Illustrator
+[WARNING] Failed to import course_tag Adobe Illustrator
+[WARNING] Failed to import course_category Ads &amp; Analytics
+[WARNING] Failed to import course_tag After Effects
+[WARNING] Failed to import course_category Animation
+[WARNING] Failed to import simple_event_tags animation
+[WARNING] Failed to import course_category Asset Store
+[WARNING] Failed to import course_category Audio
+[WARNING] Failed to import product_tag Beginner
+[WARNING] Failed to import simple_event_tags Beginner
+[WARNING] Failed to import course_tag Beginner
+[WARNING] Failed to import course_category Best Practices
+[WARNING] Failed to import pa_color Blue
+[WARNING] Failed to import product_cat Business
+[WARNING] Failed to import product_tag Business
+[WARNING] Failed to import product_cat Clothing
+[WARNING] Failed to import course_category Cloud Build
+[WARNING] Failed to import course_tag CorelDRAW
+[WARNING] Failed to import product_cat Decor
+[WARNING] Failed to import course_category Developer Advice
+[WARNING] Failed to import product_cat Engineering
+[WARNING] Failed to import product_visibility exclude-from-catalog
+[WARNING] Failed to import product_visibility exclude-from-search
+[WARNING] Failed to import simple_event_category Expired
+[WARNING] Failed to import product_type external
+[WARNING] Failed to import product_visibility featured
+[WARNING] Failed to import course_category Game Performance Reporting
+[WARNING] Failed to import product_tag Graphic Design
+[WARNING] Failed to import course_tag Graphic Design
+[WARNING] Failed to import course_category Graphics
+[WARNING] Failed to import pa_color Gray
+[WARNING] Failed to import pa_color Green
+[WARNING] Failed to import product_type grouped
+[WARNING] Failed to import simple_event_category Happening
+[WARNING] Failed to import product_cat Hoodies
+[WARNING] Failed to import course_tag InDesign
+[WARNING] Failed to import pa_size Large
+[WARNING] Failed to import pa_size Medium
+[WARNING] Failed to import product_cat Music
+[WARNING] Failed to import product_visibility outofstock
+[WARNING] Failed to import simple_event_tags Pattern
+[WARNING] Failed to import product_tag Photoshop
+[WARNING] Failed to import simple_event_tags Photoshop
+[WARNING] Failed to import course_tag Photoshop
+[WARNING] Failed to import product_visibility rated-1
+[WARNING] Failed to import product_visibility rated-2
+[WARNING] Failed to import product_visibility rated-3
+[WARNING] Failed to import product_visibility rated-4
+[WARNING] Failed to import product_visibility rated-5
+[WARNING] Failed to import pa_color Red
+[WARNING] Failed to import product_type simple
+[WARNING] Failed to import product_tag Sketch
+[WARNING] Failed to import simple_event_tags Sketch
+[WARNING] Failed to import course_tag Sketch
+[WARNING] Failed to import pa_size Small
+[WARNING] Failed to import product_cat Teaching and Education
+[WARNING] Failed to import product_cat Tshirts
+[WARNING] Failed to import product_cat Uncategorized
+[WARNING] Failed to import simple_event_category Upcoming
+[WARNING] Failed to import simple_event_tags UX/UI
+[WARNING] Failed to import course_tag UX/UI
+[WARNING] Failed to import product_type variable
+[WARNING] Failed to import simple_event_tags Vector
+[WARNING] Failed to import pa_color Yellow
+[WARNING] Failed to import product_cat Accessories
+[ERROR] Failed to import "woocommerce-placeholder" (Media)
+[WARNING] Failed to import "Header Default": Invalid post type apus_header
+[ERROR] Failed to import "breadcrumb-bkg" (Media)
+
+
+------
+New AJAX call!
+[WARNING] Failed to import course_category 2D
+[WARNING] Failed to import simple_event_tags 3d max
+[WARNING] Failed to import product_tag Adobe Illustrator
+[WARNING] Failed to import course_tag Adobe Illustrator
+[WARNING] Failed to import course_category Ads &amp; Analytics
+[WARNING] Failed to import course_tag After Effects
+[WARNING] Failed to import course_category Animation
+[WARNING] Failed to import simple_event_tags animation
+[WARNING] Failed to import course_category Asset Store
+[WARNING] Failed to import course_category Audio
+[WARNING] Failed to import product_tag Beginner
+[WARNING] Failed to import simple_event_tags Beginner
+[WARNING] Failed to import course_tag Beginner
+[WARNING] Failed to import course_category Best Practices
+[WARNING] Failed to import pa_color Blue
+[WARNING] Failed to import product_cat Business
+[WARNING] Failed to import product_tag Business
+[WARNING] Failed to import product_cat Clothing
+[WARNING] Failed to import course_category Cloud Build
+[WARNING] Failed to import course_tag CorelDRAW
+[WARNING] Failed to import product_cat Decor
+[WARNING] Failed to import course_category Developer Advice
+[WARNING] Failed to import product_cat Engineering
+[WARNING] Failed to import product_visibility exclude-from-catalog
+[WARNING] Failed to import product_visibility exclude-from-search
+[WARNING] Failed to import simple_event_category Expired
+[WARNING] Failed to import product_type external
+[WARNING] Failed to import product_visibility featured
+[WARNING] Failed to import course_category Game Performance Reporting
+[WARNING] Failed to import product_tag Graphic Design
+[WARNING] Failed to import course_tag Graphic Design
+[WARNING] Failed to import course_category Graphics
+[WARNING] Failed to import pa_color Gray
+[WARNING] Failed to import pa_color Green
+[WARNING] Failed to import product_type grouped
+[WARNING] Failed to import simple_event_category Happening
+[WARNING] Failed to import product_cat Hoodies
+[WARNING] Failed to import course_tag InDesign
+[WARNING] Failed to import pa_size Large
+[WARNING] Failed to import pa_size Medium
+[WARNING] Failed to import product_cat Music
+[WARNING] Failed to import product_visibility outofstock
+[WARNING] Failed to import simple_event_tags Pattern
+[WARNING] Failed to import product_tag Photoshop
+[WARNING] Failed to import simple_event_tags Photoshop
+[WARNING] Failed to import course_tag Photoshop
+[WARNING] Failed to import product_visibility rated-1
+[WARNING] Failed to import product_visibility rated-2
+[WARNING] Failed to import product_visibility rated-3
+[WARNING] Failed to import product_visibility rated-4
+[WARNING] Failed to import product_visibility rated-5
+[WARNING] Failed to import pa_color Red
+[WARNING] Failed to import product_type simple
+[WARNING] Failed to import product_tag Sketch
+[WARNING] Failed to import simple_event_tags Sketch
+[WARNING] Failed to import course_tag Sketch
+[WARNING] Failed to import pa_size Small
+[WARNING] Failed to import product_cat Teaching and Education
+[WARNING] Failed to import product_cat Tshirts
+[WARNING] Failed to import product_cat Uncategorized
+[WARNING] Failed to import simple_event_category Upcoming
+[WARNING] Failed to import simple_event_tags UX/UI
+[WARNING] Failed to import course_tag UX/UI
+[WARNING] Failed to import product_type variable
+[WARNING] Failed to import simple_event_tags Vector
+[WARNING] Failed to import pa_color Yellow
+[WARNING] Failed to import product_cat Accessories
+[ERROR] Failed to import "woocommerce-placeholder" (Media)
+
+
+------
+New AJAX call!
+[WARNING] Failed to import course_category 2D
+[WARNING] Failed to import simple_event_tags 3d max
+[WARNING] Failed to import product_tag Adobe Illustrator
+[WARNING] Failed to import course_tag Adobe Illustrator
+[WARNING] Failed to import course_category Ads &amp; Analytics
+[WARNING] Failed to import course_tag After Effects
+[WARNING] Failed to import course_category Animation
+[WARNING] Failed to import simple_event_tags animation
+[WARNING] Failed to import course_category Asset Store
+[WARNING] Failed to import course_category Audio
+[WARNING] Failed to import product_tag Beginner
+[WARNING] Failed to import simple_event_tags Beginner
+[WARNING] Failed to import course_tag Beginner
+[WARNING] Failed to import course_category Best Practices
+[WARNING] Failed to import pa_color Blue
+[WARNING] Failed to import product_cat Business
+[WARNING] Failed to import product_tag Business
+[WARNING] Failed to import product_cat Clothing
+[WARNING] Failed to import course_category Cloud Build
+[WARNING] Failed to import course_tag CorelDRAW
+[WARNING] Failed to import product_cat Decor
+[WARNING] Failed to import course_category Developer Advice
+[WARNING] Failed to import product_cat Engineering
+[WARNING] Failed to import product_visibility exclude-from-catalog
+[WARNING] Failed to import product_visibility exclude-from-search
+[WARNING] Failed to import simple_event_category Expired
+[WARNING] Failed to import product_type external
+[WARNING] Failed to import product_visibility featured
+[WARNING] Failed to import course_category Game Performance Reporting
+[WARNING] Failed to import product_tag Graphic Design
+[WARNING] Failed to import course_tag Graphic Design
+[WARNING] Failed to import course_category Graphics
+[WARNING] Failed to import pa_color Gray
+[WARNING] Failed to import pa_color Green
+[WARNING] Failed to import product_type grouped
+[WARNING] Failed to import simple_event_category Happening
+[WARNING] Failed to import product_cat Hoodies
+[WARNING] Failed to import course_tag InDesign
+[WARNING] Failed to import pa_size Large
+[WARNING] Failed to import pa_size Medium
+[WARNING] Failed to import product_cat Music
+[WARNING] Failed to import product_visibility outofstock
+[WARNING] Failed to import simple_event_tags Pattern
+[WARNING] Failed to import product_tag Photoshop
+[WARNING] Failed to import simple_event_tags Photoshop
+[WARNING] Failed to import course_tag Photoshop
+[WARNING] Failed to import product_visibility rated-1
+[WARNING] Failed to import product_visibility rated-2
+[WARNING] Failed to import product_visibility rated-3
+[WARNING] Failed to import product_visibility rated-4
+[WARNING] Failed to import product_visibility rated-5
+[WARNING] Failed to import pa_color Red
+[WARNING] Failed to import product_type simple
+[WARNING] Failed to import product_tag Sketch
+[WARNING] Failed to import simple_event_tags Sketch
+[WARNING] Failed to import course_tag Sketch
+[WARNING] Failed to import pa_size Small
+[WARNING] Failed to import product_cat Teaching and Education
+[WARNING] Failed to import product_cat Tshirts
+[WARNING] Failed to import product_cat Uncategorized
+[WARNING] Failed to import simple_event_category Upcoming
+[WARNING] Failed to import simple_event_tags UX/UI
+[WARNING] Failed to import course_tag UX/UI
+[WARNING] Failed to import product_type variable
+[WARNING] Failed to import simple_event_tags Vector
+[WARNING] Failed to import pa_color Yellow
+[WARNING] Failed to import product_cat Accessories
+[ERROR] Failed to import "woocommerce-placeholder" (Media)
+[WARNING] Failed to import "Header Default": Invalid post type apus_header
+[ERROR] Failed to import "breadcrumb-bkg" (Media)
+
+
+------
+New AJAX call!
+[WARNING] Failed to import course_category 2D
+[WARNING] Failed to import simple_event_tags 3d max
+[WARNING] Failed to import product_tag Adobe Illustrator
+[WARNING] Failed to import course_tag Adobe Illustrator
+[WARNING] Failed to import course_category Ads &amp; Analytics
+[WARNING] Failed to import course_tag After Effects
+[WARNING] Failed to import course_category Animation
+[WARNING] Failed to import simple_event_tags animation
+[WARNING] Failed to import course_category Asset Store
+[WARNING] Failed to import course_category Audio
+[WARNING] Failed to import product_tag Beginner
+[WARNING] Failed to import simple_event_tags Beginner
+[WARNING] Failed to import course_tag Beginner
+[WARNING] Failed to import course_category Best Practices
+[WARNING] Failed to import pa_color Blue
+[WARNING] Failed to import product_cat Business
+[WARNING] Failed to import product_tag Business
+[WARNING] Failed to import product_cat Clothing
+[WARNING] Failed to import course_category Cloud Build
+[WARNING] Failed to import course_tag CorelDRAW
+[WARNING] Failed to import product_cat Decor
+[WARNING] Failed to import course_category Developer Advice
+[WARNING] Failed to import product_cat Engineering
+[WARNING] Failed to import product_visibility exclude-from-catalog
+[WARNING] Failed to import product_visibility exclude-from-search
+[WARNING] Failed to import simple_event_category Expired
+[WARNING] Failed to import product_type external
+[WARNING] Failed to import product_visibility featured
+[WARNING] Failed to import course_category Game Performance Reporting
+[WARNING] Failed to import product_tag Graphic Design
+[WARNING] Failed to import course_tag Graphic Design
+[WARNING] Failed to import course_category Graphics
+[WARNING] Failed to import pa_color Gray
+[WARNING] Failed to import pa_color Green
+[WARNING] Failed to import product_type grouped
+[WARNING] Failed to import simple_event_category Happening
+[WARNING] Failed to import product_cat Hoodies
+[WARNING] Failed to import course_tag InDesign
+[WARNING] Failed to import pa_size Large
+[WARNING] Failed to import pa_size Medium
+[WARNING] Failed to import product_cat Music
+[WARNING] Failed to import product_visibility outofstock
+[WARNING] Failed to import simple_event_tags Pattern
+[WARNING] Failed to import product_tag Photoshop
+[WARNING] Failed to import simple_event_tags Photoshop
+[WARNING] Failed to import course_tag Photoshop
+[WARNING] Failed to import product_visibility rated-1
+[WARNING] Failed to import product_visibility rated-2
+[WARNING] Failed to import product_visibility rated-3
+[WARNING] Failed to import product_visibility rated-4
+[WARNING] Failed to import product_visibility rated-5
+[WARNING] Failed to import pa_color Red
+[WARNING] Failed to import product_type simple
+[WARNING] Failed to import product_tag Sketch
+[WARNING] Failed to import simple_event_tags Sketch
+[WARNING] Failed to import course_tag Sketch
+[WARNING] Failed to import pa_size Small
+[WARNING] Failed to import product_cat Teaching and Education
+[WARNING] Failed to import product_cat Tshirts
+[WARNING] Failed to import product_cat Uncategorized
+[WARNING] Failed to import simple_event_category Upcoming
+[WARNING] Failed to import simple_event_tags UX/UI
+[WARNING] Failed to import course_tag UX/UI
+[WARNING] Failed to import product_type variable
+[WARNING] Failed to import simple_event_tags Vector
+[WARNING] Failed to import pa_color Yellow
+[WARNING] Failed to import product_cat Accessories
+[ERROR] Failed to import "woocommerce-placeholder" (Media)
+[WARNING] Failed to import "Header Default": Invalid post type apus_header
+[ERROR] Failed to import "breadcrumb-bkg" (Media)
+
